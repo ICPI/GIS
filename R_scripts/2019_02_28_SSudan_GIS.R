@@ -30,7 +30,13 @@ ldpkg <- dget("R_scripts/ldpkg.R")
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 #  Load packages, and install them if they are not already installed, before loading
-ldpkg( c("leaflet" , "rgdal" , "rgeos", "sp", "RColorBrewer", "tidyverse") )
+ldpkg( c("leaflet" , 
+         "rgdal" , 
+         "rgeos", 
+         "sp", 
+         "RColorBrewer", 
+         "tidyverse", 
+         "readxl") )
 
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -62,12 +68,93 @@ leaflet(ss_state) %>%
   addPolygons(fillColor="grey",
               color='white', weight=2, opacity=.7, fillOpacity = 0.8) %>% 
   addPolygons(data = ss_county, fillColor="none",
-              color='#FF6633', weight=.5, opacity=.5, fillOpacity = 0.7) %>%  
+              color='orange', weight=.5, opacity=.7, fillOpacity = 0.7) %>%  
   addCircles(data=ss_sites, lng=~longitude, lat=~latitude, radius=4, opacity=1, fillOpacity=2,
                    color="#335b8e", stroke=T, fill=T, fillColor = "blue") %>% 
   addScaleBar()
 
 
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# ============= Pulling data from provided Excel file ~~~~~~~====
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+xlpath <- "SSudan_req/RawData/Field Officers PEPFAR Sites Allocations_02202019.xlsx"
+df <- read_excel(xlpath, range = "Field Officers!A1:I40")
+
+# Recoding variables in data to match shape files
+df1 <- df %>% 
+  rename(s_no           = "S No",                     
+         level5name     = "PSNU / County",            
+         field_Officers = "HIV Field Officers",    
+         focal_person   = "PEPFAR focal Point person") %>% 
+  mutate(level4name = paste(`Former State`, " ", "State", sep="") )
+
+         
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# ============= Map 1, with county-level data by IM ~~~~~~~====
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~         
+m1 <- df1 %>% 
+  select(level5name, IM) %>% 
+  unique() %>% 
+  filter(!is.na(level5name)) %>% 
+  filter(level5name %ni% c("_Military South Sudan"))
+
+# Checking matching counties
+sh_county <- unique(ss_county$level5name)
+df_county <- unique(m1$level5name)
+  
+# County names in df but not in shape file
+setdiff(df_county, sh_county)
+
+map1 <- merge(ss_county, m1, by="level5name", duplicateGeoms = TRUE)
+
+merge(spatial_data, data_frame, by = 'match_column', duplicateGeoms = TRUE)
+map1 <- merge(ss_county, m1, by.x = "level5name", by.y = "level5name")
+
+map1x <- map1[!is.na(map1$IM),]
+
+
+#  pallate based on IM name
+pal_im <- colorFactor(palette = c('#335b8e', 
+                                    '#6ca18f', 
+                                    '#b5b867',
+                                    '#cc5234'), 
+                   domain = map1x$IM)
+
+leaflet(map1x) %>%   
+  addPolygons(data=ss_state, fillColor="none",
+              color='white', weight=2, opacity=.7, fillOpacity = 0.1) %>% 
+  addPolygons(data = map1, fillColor="grey",
+              color='white', weight=.5, opacity=.7, fillOpacity = 0.3) %>% 
+  addPolygons(data = map1x, fillColor=~pal_im(IM),
+              color='white', weight=.5, opacity=.7, fillOpacity = 0.7,
+              label=~level5name, 
+              labelOptions = labelOptions(noHide = T, direction = 'center', 
+                                          style = list("color" = "black"))) %>% 
+  addLegend(pal = pal_im, values = ~IM,
+            opacity = 0.9, title = 'IMs', position = "bottomright") %>% 
+  addScaleBar()
+  
+
+leaflet(map1) %>%   
+  addPolygons(fillColor=~pal(level5name),
+              color='white', weight=1, opacity=.7, fillOpacity = 0.6, 
+              popup = state_popup) %>% 
+  addCircleMarkers(data=df, lng=~Longitude, lat=~Latitude, radius=1, opacity=1,
+                   label=~paste(psnu, uid, sep=" "), color=~pal(psnu),
+                   labelOptions = labelOptions(noHide = T, direction = 'topright', 
+                                               style = list("color" = "blue"))) %>% 
+  addLegend() %>% 
+  addScaleBar()
+
+
+
+         
+         
+         
+         
+         
+         
+         
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # ============= Getting MER data ~~~~~~~===============
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -96,6 +183,13 @@ datim <- read_tsv(file=gfile_loc,
                   col_types = colvec)      # ending if-else for Genie check
 
 names(datim) <- tolower(names(datim))  
+
+
+df <- datim %>% 
+  select(snu1, psnuuid, psnu, orgunituid, sitename, sitetype,
+         fundingagency, primepartner, mechanismid, implementingmechanismname) %>% 
+  unique() 
+
 
 
 
