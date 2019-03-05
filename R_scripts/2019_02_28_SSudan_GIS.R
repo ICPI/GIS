@@ -96,7 +96,16 @@ m1 <- df1 %>%
   select(level5name, IM) %>% 
   unique() %>% 
   filter(!is.na(level5name)) %>% 
-  filter(level5name %ni% c("_Military South Sudan"))
+  filter(level5name %ni% c("_Military South Sudan")) %>%
+  group_by(level5name) %>% 
+  mutate(imcol = row_number()) %>% 
+  ungroup() %>% 
+  mutate(imcol = paste("IM", imcol, sep="_")) %>% 
+  spread(imcol, IM) %>% 
+  # Creating the concatenated IM variable
+  mutate(IMs = if_else(is.na(IM_2), IM_1, paste(IM_1, IM_2, sep=" | "))) %>% 
+  select(level5name, IMs)
+
 
 # Checking matching counties
 sh_county <- unique(ss_county$level5name)
@@ -104,6 +113,62 @@ df_county <- unique(m1$level5name)
   
 # County names in df but not in shape file
 setdiff(df_county, sh_county)
+
+map1 <- merge(ss_county, m1, by="level5name", duplicateGeoms = TRUE)
+
+map1x <- map1[!is.na(map1$IMs),]
+
+# Reordering the IM factors to show overlapping ones together
+map1x$im <- factor(map1x$IMs, levels = c("ICAP",
+                                          "ICAP | JHPIEGO",
+                                          "ICAP | IHI",
+                                          "JHPIEGO",
+                                          "IHI",
+                                          "CMMB"))
+                                          
+
+
+
+#  pallate based on IM name
+pal_im <- colorFactor(palette = c('#ceb966',   # vegas gold: ICAP
+                                  '#9cb084',   # Olivine: ICAP|JHIPIEGO
+                                  '#fddbc7',   # unbleached silk: ICAP|IHI
+                                  '#6bb1c9',   # dark sky blue: JHIPIEGO
+                                  '#ef8a62',   # salmon: IHI
+                                  '#a379bb'   # rich lilac: CMMB
+                                  ), 
+                   domain = map1x$im)
+
+leaflet(map1x) %>%   
+  addPolygons(data=ss_state, fillColor="none",
+              color='darkgrey', weight=4, opacity=.9, fillOpacity = 0.1) %>% 
+  addPolygons(data = map1, fillColor="grey",
+              color='white', weight=.5, opacity=.5, fillOpacity = 0.3) %>% 
+  addPolygons(data = map1x, fillColor=~pal_im(im),
+              color='white', weight=.5, opacity=.5, fillOpacity = 0.6,
+              label=~level5name, 
+              labelOptions = labelOptions(noHide = T, direction = 'center', 
+                                          style = list("color" = "black"))) %>% 
+  addLegend(pal = pal_im, values = ~im,
+            opacity = 0.9, title = 'IMs', position = "bottomright") %>% 
+  addScaleBar()
+  
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# ============= Map 2, with State-level data by IM ~~~~~~~====
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~         
+m2 <- df1 %>% 
+  select(level4name, IM) %>% 
+  unique() %>% 
+  filter(!is.na(level4name)) %>% 
+  filter(level4name %ni% c("_Military South Sudan"))
+
+# Checking matching counties
+sh_state <- unique(ss_state$level4name)
+df_state <- unique(m2$level4name)
+
+# County names in df but not in shape file
+setdiff(df_state, sh_state)
 
 map1 <- merge(ss_county, m1, by="level5name", duplicateGeoms = TRUE)
 
@@ -115,10 +180,10 @@ map1x <- map1[!is.na(map1$IM),]
 
 #  pallate based on IM name
 pal_im <- colorFactor(palette = c('#335b8e', 
-                                    '#6ca18f', 
-                                    '#b5b867',
-                                    '#cc5234'), 
-                   domain = map1x$IM)
+                                  '#6ca18f', 
+                                  '#b5b867',
+                                  '#cc5234'), 
+                      domain = map1x$IM)
 
 leaflet(map1x) %>%   
   addPolygons(data=ss_state, fillColor="none",
@@ -133,19 +198,6 @@ leaflet(map1x) %>%
   addLegend(pal = pal_im, values = ~IM,
             opacity = 0.9, title = 'IMs', position = "bottomright") %>% 
   addScaleBar()
-  
-
-leaflet(map1) %>%   
-  addPolygons(fillColor=~pal(level5name),
-              color='white', weight=1, opacity=.7, fillOpacity = 0.6, 
-              popup = state_popup) %>% 
-  addCircleMarkers(data=df, lng=~Longitude, lat=~Latitude, radius=1, opacity=1,
-                   label=~paste(psnu, uid, sep=" "), color=~pal(psnu),
-                   labelOptions = labelOptions(noHide = T, direction = 'topright', 
-                                               style = list("color" = "blue"))) %>% 
-  addLegend() %>% 
-  addScaleBar()
-
 
 
          
