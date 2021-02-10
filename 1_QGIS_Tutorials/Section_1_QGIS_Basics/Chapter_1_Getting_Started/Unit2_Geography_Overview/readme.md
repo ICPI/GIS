@@ -26,17 +26,15 @@ With that in mind, what does health based geography look like in practice? See b
 
 <!-- ![geostudy](/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudy.png) -->
 
-<img src="/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudy.png" width="400" />
-
-<img srcset="/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudy.png 2x" />​
+<img src="/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudy.png" width="600" />
 
 <!-- ![geostudymap](/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudymap.png) -->
 
-<img src="/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudymap.png" width="400" />
+<img src="/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudymap.png" height="400" />
 
 <!-- ![geostudymap2](/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudymap2.png) -->
 
-<img src="/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudymap2.png" width="400" />
+<img src="/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudymap2.png" width="800" />
 
 More examples of case studies can be found by clicking here: [Geospatial Case Studies](/studies)
 
