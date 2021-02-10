@@ -26,15 +26,15 @@ With that in mind, what does health based geography look like in practice? See b
 
 <!-- ![geostudy](/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudy.png) -->
 
-<img src="/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudy.png" style="width: 50%; height: 50%"/>​
+<img src="/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudy.png" width="400" height="800" />​
 
 <!-- ![geostudymap](/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudymap.png) -->
 
-<img src="/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudymap.png" style="width: 50%; height: 50%"/>
+<img src="/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudymap.png" width="400" height="800" />
 
 <!-- ![geostudymap2](/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudymap2.png) -->
 
-<img src="/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudymap2.png" style="width: 50%; height: 50%"/>
+<img src="/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudymap2.png" width="400" height="800" />
 
 More examples of case studies can be found by clicking here: [Geospatial Case Studies](/studies)
 
