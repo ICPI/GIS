@@ -12,7 +12,7 @@ It is the first question that must be answered before building a solid geospatia
 
 <!-- ![geochart](/1_QGISgit_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geochart.png) -->
 
-<img src="/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geochart.png" width="200" height="200" />
+<img src="/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geochart.png" width="400" height="400" />
 
 >Geography is the study of places and the relationships between people and their environments…Geography seeks to understand where things are found, why they are there, and how they develop & change over time.” – *National Geographic​*
 
