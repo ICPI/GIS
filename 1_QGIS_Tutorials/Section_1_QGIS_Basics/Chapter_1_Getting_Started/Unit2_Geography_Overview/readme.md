@@ -24,11 +24,17 @@ Health geography is a subdiscipline of human geography, with a vast body of lite
 
 With that in mind, what does health based geography look like in practice? See below for an example of an academic case study leveraging spatial data to answer complex analytical questions:
 
-![geostudy](/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudy.png)
+<!-- ![geostudy](/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudy.png) -->
 
-![geostudymap](/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudymap.png)
+<img src="/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudy.png" style="width: 50%; height: 50%"/>​
 
-![geostudymap2](/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudymap2.png)
+<!-- ![geostudymap](/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudymap.png) -->
+
+<img src="/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudymap.png" style="width: 50%; height: 50%"/>
+
+<!-- ![geostudymap2](/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudymap2.png) -->
+
+<img src="/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geostudymap2.png" style="width: 50%; height: 50%"/>
 
 More examples of case studies can be found by clicking here: [Geospatial Case Studies](/studies)
 
