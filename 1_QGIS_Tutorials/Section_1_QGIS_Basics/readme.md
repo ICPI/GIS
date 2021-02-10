@@ -30,12 +30,12 @@
 
 **Chapter 1 - Getting Started**
 
-* [Unit 1 - Installing QGIS](/1_QGIS_Tutorials/Section_1_QGIS_Basics)
-* [Unit 2 - Introduction to Geographic Concepts](/1_QGIS_Tutorials)
-* [Section 3 - Advanced QGIS Analysis](/1_QGIS_Tutorials)
+* [Unit 1 - Installing QGIS](/Unit1_Installing_QGIS)
+* [Unit 2 - Introduction to Geographic Concepts](/Unit2_Geography_Overview)
+* [Unit 3 - Setting up the Training Environment](/Unit3_Setting_Up)
 
-**Category 2 - Geospatial Scripts**
+**Chapter 2 - Interacting with QGIS**
 
-- [Section 1 - Python Based Scripts](/2_Geospatial_Scripts)
-- [Section 2 - R Based Scripts](/2_Geospatial_Scripts)
-- [Section 3 - Learning SQL](/2_Geospatial_Scripts)
+* [Unit 1 - Python Based Scripts](/2_Geospatial_Scripts)
+* [Section 2 - R Based Scripts](/2_Geospatial_Scripts)
+* [Section 3 - Learning SQL](/2_Geospatial_Scripts)

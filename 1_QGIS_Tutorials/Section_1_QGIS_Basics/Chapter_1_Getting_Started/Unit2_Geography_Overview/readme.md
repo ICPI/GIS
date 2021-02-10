@@ -14,8 +14,6 @@ It is the first question that must be answered before building a solid geospatia
 
 >Geography is the study of places and the relationships between people and their environments…Geography seeks to understand where things are found, why they are there, and how they develop & change over time.” – *National Geographic​*
 
----
-
 ​Within geography are many disciplines. For our work in PEPFAR, this tutorial will focus on health based geography.
 
 Health geography is a subdiscipline of human geography, with a vast body of literature. Health geography views health from a holistic perspective encompassing society and space, and it conceptualizes the role of place, location and geography in health, well-being and disease…”
@@ -80,6 +78,8 @@ Often called The Scientific Method for GIS professionals, this methodology gener
 
 > **Always begin with an analytical question!**
 
+---
 
+Please move on the next section for more information how to set up your training environment.
 
-### [Return Home](../../../) | [Previous Unit](../Chapter_1_Getting_Started) | [Next Unit](../Unit3_)
+### [Return Home](../../../) | [Previous Unit](../Chapter_1_Getting_Started) | [Next Unit](../Unit3_Setting_Up)
