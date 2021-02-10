@@ -36,6 +36,14 @@
 
 **Chapter 2 - Interacting with QGIS**
 
-* [Unit 1 - Python Based Scripts](/2_Geospatial_Scripts)
-* [Section 2 - R Based Scripts](/2_Geospatial_Scripts)
-* [Section 3 - Learning SQL](/2_Geospatial_Scripts)
+* [Unit 1 - TBD](link)
+* [Unit 2 - TBD](link)
+* [Unit 3 - TBD](link)
+
+**Chapter 3 - Tips and Other Helpful Information**
+
+* [1 - How to Lie with Maps](link)
+* [2 - Cartographic Standards aka How to Make Beautiful Maps](link)
+* [3 - Geospatial Data Management](link)
+* [4 - Common Data Sources](link)
+* [5 - DATIM Geographic Heirachy](link)

@@ -72,6 +72,22 @@ While this repo does contain foundational QGIS skills, code based tools will var
 
 - If users would like to learn/take a refresher in **CSS**, please try completing Lesson 1 (and only Lesson 1) of the [Introduction to CSS Tutorial](https://www.codecademy.com/learn/learn-css) (*~2 hours*).
 
+---
+
+## Commonly Asked Questions
+
+Where can I find shapefile datasets?
+
+* Currently shapefile data can only be found on PEPFAR's [ArcGIS Online database](link). Please note that you will need the approriate permissions to access this site. If you would like access, or want to request a OU specific administrative dataset, please contact the GIS cluster.
+
+Where can I find health facility coordinates?
+
+* Due to the sensitive nature of site level information, these datasets must be requested from the GIS cluster.
+
+Where can I find UID information?
+
+* UID information can be found within PEPFAR shapefiles, the MSDs, or through DATIM. More information on the DATIM heirachy can be found [HERE](link).
+
 <!-- ## How to Navigate this Repository.
 
 This repo and its resources can be downloaded directly from Github for individual use. Each Chapter folder contains the chapter content, as well as any data and files referenced.

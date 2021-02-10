@@ -53,6 +53,8 @@ No. GIS is much more than a simple static map. Layers of data can interact with 
 
 <img src="/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/gismodel.png" width="800" />
 
+<img src="/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/pepfargis.png" width="800" />
+
 These interactive layers connect to the greater GIS workflow through what is called the **Geographic Approach**
 
 ---
@@ -80,6 +82,6 @@ Often called The Scientific Method for GIS professionals, this methodology gener
 
 ---
 
-Please move on the next section for more information how to set up your training environment.
+Please move on the next section for more information on the different types of maps.
 
-### [Return Home](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started) | [Previous Unit](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit1_Installing_QGIS | [Next Unit](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit3_Setting_Up)
+### [Return Home](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics) | [Previous Unit](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit1_Installing_QGIS) | [Next Unit](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit3_Setting_Up)
