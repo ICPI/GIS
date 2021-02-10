@@ -1,6 +1,6 @@
 ***Last Updated: 02/06/21***
 
-### [Return Home](../../../) | [Previous Unit](../Chapter_1_Getting_Started) | [Next Unit](../Unit3_)
+### [Return Home](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics) | [Previous Unit](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit1_Installing_QGIS) | [Next Unit](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit3_Setting_Up)
 
 # Unit 02: Geographic Concepts
 
@@ -82,4 +82,4 @@ Often called The Scientific Method for GIS professionals, this methodology gener
 
 Please move on the next section for more information how to set up your training environment.
 
-### [Return Home](../../../) | [Previous Unit](../Chapter_1_Getting_Started) | [Next Unit](../Unit3_Setting_Up)
+### [Return Home](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started) | [Previous Unit](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit1_Installing_QGIS | [Next Unit](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit3_Setting_Up)

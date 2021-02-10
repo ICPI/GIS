@@ -2,7 +2,7 @@
 
 # LEARNING QGIS 3
 
-> Please note that this tutorial was made using **QGIS 3.10**. There may be minor differences between the material presented and the latest version of QGIS.***
+> Please note that this tutorial was made using **QGIS 3.10**. There may be minor differences between the material presented and the latest version of QGIS.
 
 ---
 
@@ -28,11 +28,11 @@
 
 ## **Section Layout:**
 
-**Chapter 1 - Getting Started**
+**[Chapter 1 - Getting Started](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started)**
 
-* [Unit 1 - Installing QGIS](/Unit1_Installing_QGIS)
-* [Unit 2 - Introduction to Geographic Concepts](/Unit2_Geography_Overview)
-* [Unit 3 - Setting up the Training Environment](/Unit3_Setting_Up)
+* [Unit 1 - Installing QGIS](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit1_Installing_QGIS)
+* [Unit 2 - Introduction to Geographic Concepts](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit2_Geography_Overview)
+* [Unit 3 - Setting up the Training Environment](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit3_Setting_Up)
 
 **Chapter 2 - Interacting with QGIS**
 

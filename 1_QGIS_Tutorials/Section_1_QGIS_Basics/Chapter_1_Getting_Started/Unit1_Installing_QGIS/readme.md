@@ -1,6 +1,6 @@
 ***Last Updated: 02/06/21***
 
-### [Return Home](../../../) | [Next Unit](../Unit2_Geography_Overview)
+### [Return Home](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started) | [Next Unit](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit2_Geography_Overview)
 
 # Unit 01: Installing QGIS on Windows/Mac
 
@@ -21,4 +21,4 @@ Once on the site, please follow these steps:
 
 If problems arise during installation, please contact the GIS cluster for assitance.
 
-### [Return Home](../../../) | [Previous Unit](../Chapter_1_Getting_Started) | [Next Unit](../Unit3_)
+### [Return Home](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started) | [Next Unit](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit2_Geography_Overview)
