@@ -1,4 +1,4 @@
-***PAGE NOT FINALIZED, Last Updated: 02/01/21***
+***Last Updated: 02/06/21***
 
 ### [Return Home](../../../) | [Previous Unit](../Chapter_1_Getting_Started) | [Next Unit](../Unit3_)
 
@@ -10,7 +10,9 @@ It is the first question that must be answered before building a solid geospatia
 
 > “The study of variations in phenomena from place to place.” ​– *Holt-Jensen*
 
-![geochart](/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geochart.png)
+<!-- ![geochart](/1_QGISgit_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geochart.png) -->
+
+<img src="/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/w_files/pics/geochart.png" width="200" height="200" />
 
 >Geography is the study of places and the relationships between people and their environments…Geography seeks to understand where things are found, why they are there, and how they develop & change over time.” – *National Geographic​*
 
