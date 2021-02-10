@@ -1,34 +1,8 @@
 ***Last Updated: 02/06/21***
 
-### [Return Home](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics) | [Previous Unit](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit2_Geography_Overview) | [Next Unit](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit4_Setting_Up)
+### [Return Home](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics) | [Previous Unit](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit2_Geography_Overview) | [Next Unit](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit4_Types_of_Data)
 
-# Unit 03: Types of Maps and Geographic Data
-
-## **Vector Data**
-
-[IMAGE]
-
-Vector data provides a way to represent real world features within the GIS environment. A feature is anything that can be seen on the landscape. Imagine standing on the top of a hill. Looking down there are houses, roads, trees, rivers, etc. Each one of those would be a feature when represented in a GIS application.
-
-Vector features have attributes, which consist of text or numerical information that describe the features (a table). A vector feature has its shape represented using geometry. The geometry is made up of one or more interconnected vertices.
-
-In other words, **vector data are points, lines, and polygons and often saved as shapefiles**
-
---
-
-## **Raster Data**
-
-[IMAGE]
-
-While vector features use geometry (points, lines, and polygons) to represent the real world, raster data takes a different approach. Rasters are made up of a matrix of pixels (also called cells), each containing a value that represents the conditions for the area covered by that cell. In this way, a raster dataset is similar to an image file.
-
-Raster data is used in a GIS application when we want to display information that is continuous across an area and cannot easily be divided into vector features.
-
-For example, when mapping grasslands, a user may want to depicit the many variations in color and density of cover. Instead of simplifying the features and creating a single polygon around each grassland area, a user can create a more detailed, grided dataset.
-
-**Raster data are cell based files that are used to depict information such as population or percipitation. Instead of shapefiles, they'll be saved as a GeoTiff, PNG, or a similar file format.**
-
----
+# Unit 03: Types of Maps
 
 ## **STATIC MAPS**
 
@@ -90,7 +64,7 @@ Outside of using site level datasets, information will usually be stored as poly
 
 * Less exact than distribution maps, depending on the size of the symbols.
 * Can require preprocessing to derive centroids.
-* Overlapping circles can be confusing. Users will have adjust symbol radius, transparency, or combine symboles as necessary. 
+* Overlapping circles can be confusing. Users will have adjust symbol radius, transparency, or combine symboles as necessary.
 
 For examples of symbol based maps within and outside of PEPFAR, please open the [Map_Examples](LINK) folder.
 
@@ -108,6 +82,8 @@ While there are a few versions of cartograms, most GIS users creat contagious ca
 
 ## **DYNAMIC MAPS**
 
+[IMAGE]
+
 Dynamic maps are similar to static maps. The major difference is that dynamic maps are hosted onto a digital plaftform allowing users to interact and manipulate it.
 
 Within PEPFAR, the most accessible interactive maps can be found on Panorama, DATIM, and custom R Shiny/Python scripts. At an agency level, dynamic maps can also be produced within PowerBI and Tableau.
@@ -116,8 +92,20 @@ Due to data sensitivity concerns and hosting challenges, these maps are made on 
 
 For examples of PEPFAR-specific web maps, please contact the GIS cluster.
 
+**Strengths:**
+
+* Enhanced user control.
+* Ablility to handle many different types of data and map themes.
+
+**Weaknesses:**
+
+* Can become overcrowded.
+* User interfaces can be confusing to some users.
+* Set-up time can be time consuming.
+* Hosting a dynamic map may be difficult.
+
 ---
 
-Now that we have a background in geography and a better understanding of the types of maps that can be produced, please move on the next section for more information setting up your QGIS training environment.
+Please click on *Next Unit* to continue onto learning about the types of data used withing a GIS.
 
-### [Return Home](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics) | [Previous Unit](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit2_Geography_Overview) | [Next Unit](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit4_Setting_Up)
+### [Return Home](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics) | [Previous Unit](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit2_Geography_Overview) | [Next Unit](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit4_Types_of_Data)

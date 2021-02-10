@@ -15,7 +15,7 @@ This repository is a living resource that introduces knowledge and practical ski
 
 Please refer to the **Recently Added** section for links to our latest releases.
 
-Within the first category, [QGIS](/1_QGIS_Tutorials), you will find tutorials on both how to get started using the program, as well as a curated collection of common tools.
+Within the first category, [QGIS](/1_QGIS_Tutorials), you will find tutorials on both how to get started using the program, as well as a curated collection of common tools. **The tutorials found within this repository are meant to give users only the most basic geographic concepts. The purpose is to faciliate the ability to use of QGIS within PEPFAR in the quickest way. It should by no means be considered an extensive learning resource.**
 
 In the second category, [geospatial tools](/2_Geospatial_Scripts), contains analysis tools written in both Python and R. To help with accesibility and quick use, many scripts will be provided in a pre-made format. Users may contact ICPI to request tools be translated into pyton or R, if they are not readily available.
 

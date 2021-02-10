@@ -2,7 +2,7 @@
 
 # LEARNING QGIS 3
 
-> Please note that this tutorial was made using **QGIS 3.10**. There may be minor differences between the material presented and the latest version of QGIS.
+> Please note that this tutorial was made using **QGIS 3.10**. There may be minor differences between the material presented and the latest version of QGIS. As mentioned previously, these tutorials are meant as a quick start guide for using QGIS and are by no means a comprehensive education on geographic concepts or workflows within PEPFAR.
 
 ---
 
@@ -32,18 +32,19 @@
 
 * [Unit 1 - Installing QGIS](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit1_Installing_QGIS)
 * [Unit 2 - Introduction to Geographic Concepts](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit2_Geography_Overview)
-* [Unit 3 - Setting up the Training Environment](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit3_Setting_Up)
+* [Unit 3 - Types of Maps](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit3_Types_of_Maps)
+* [Unit 4 - Types of Geographic Data](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit4_Types_of_Data)
+* [Unit 5 - Cartographic Design and Standards](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit5_Carto_Design)
 
-**Chapter 2 - Interacting with QGIS**
+**[Chapter 2 - Using and Interacting with QGIS](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_2_Using_QGIS)**
 
-* [Unit 1 - TBD](link)
+* [Unit 1 - Installing QGIS + Setting up a Training Environment](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_2_Using_QGIS/Unit1_Install_QGIS_Workspace)
 * [Unit 2 - TBD](link)
 * [Unit 3 - TBD](link)
 
 **Chapter 3 - Tips and Other Helpful Information**
 
 * [1 - How to Lie with Maps](link)
-* [2 - Cartographic Standards aka How to Make Beautiful Maps](link)
-* [3 - Geospatial Data Management](link)
-* [4 - Common Data Sources](link)
-* [5 - DATIM Geographic Heirachy](link)
+* [2 - Geospatial Data Management](link)
+* [3 - Common Data Sources](link)
+* [4 - DATIM Geographic Heirachy](link)
