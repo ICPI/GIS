@@ -1,8 +1,8 @@
-***Last Updated: 02/06/21***
+***Last Updated: 05/19/21***
 
 ### [Return Home](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started) | [Next Unit](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_1_Getting_Started/Unit2_Geography_Overview)
 
-# Unit 01: Installing QGIS on Windows/Mac + Setting up a Training Environment
+# Unit 01: Focused QGIS 3.xx Tutorial Learning Modules
 
 ## **Where to find QGIS?**
 
