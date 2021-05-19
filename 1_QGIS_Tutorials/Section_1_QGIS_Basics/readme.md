@@ -45,8 +45,9 @@
 
 **[Chapter 3 - Creating Maps Using MicroStrategy]()**
 
-* [Unit 1 - Creating a Basic Point/Choropleth Map]()
-* [Unit 2 - Advanced Maps]()
+* [Unit 1 - Exisiting MicroStrategy Maps within Panorama]()
+* [Unit 2 - Creating a Basic Point/Choropleth Map]()
+* [Unit 3 - Advanced Maps]()
 
 **Chapter 4 - Tips and Other Helpful Information**
 
