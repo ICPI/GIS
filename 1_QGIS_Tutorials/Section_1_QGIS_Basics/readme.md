@@ -43,13 +43,14 @@
 * [Unit 1 - Focused QGIS 3.xx Tutorial Learning Modules](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_2_Using_QGIS/Unit1_Install_QGIS_Workspace)
 * [Unit 2 - Expanded Learning](link)
 
-**Chapter 3 - Creating Maps Using MicroStrategy**
-* [Unit 1 - Creating a Basic Point/Choropleth Map](link)
-* [Unit 2 - Advanced Maps](link)
+**[Chapter 3 - Creating Maps Using MicroStrategy]()**
+
+* [Unit 1 - Creating a Basic Point/Choropleth Map]()
+* [Unit 2 - Advanced Maps]()
 
 **Chapter 4 - Tips and Other Helpful Information**
 
-* [1 - How to Lie with Maps](link)
-* [2 - Geospatial Data Management](link)
-* [3 - Common Data Sources](link)
-* [4 - DATIM Geographic Heirachy](link)
+* [1 - How to Lie with Maps]()
+* [2 - Geospatial Data Management]()
+* [3 - Common Data Sources]()
+* [4 - DATIM Geographic Heirachy]()
