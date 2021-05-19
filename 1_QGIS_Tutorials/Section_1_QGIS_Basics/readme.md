@@ -18,6 +18,7 @@
 
 *     Apply GIS as part of the COP planning process​.
 
+<!---
 ---
 
 ## **RECENTLY UPDATED SECTIONS**
@@ -25,6 +26,7 @@
 [Learning QGIS, Section 1](/1_QGIS_Tutorials/Section_1_The_Basics) [02/03/2020]
 
 ---
+--->
 
 ## **Section Layout:**
 
@@ -38,9 +40,8 @@
 
 **[Chapter 2 - Using and Interacting with QGIS](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_2_Using_QGIS)**
 
-* [Unit 1 - Installing QGIS + Setting up a Training Environment](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_2_Using_QGIS/Unit1_Install_QGIS_Workspace)
-* [Unit 2 - TBD](link)
-* [Unit 3 - TBD](link)
+* [Unit 1 - Focused QGIS 3.xx Tutorial Learning Modules](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_2_Using_QGIS/Unit1_Install_QGIS_Workspace)
+* [Unit 2 - Expanded Learning](link)
 
 **Chapter 3 - Tips and Other Helpful Information**
 
