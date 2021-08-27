@@ -1,8 +1,11 @@
-### **[Click HERE to see the Facility based Hotspot Tool](https://github.com/ICPI/GIS/tree/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS)**
-
-### **[Click HERE to see the PSNU based Hotspot Tool](https://github.com/ICPI/GIS/tree/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/PSNU_HS)**
-
 <br><br/>
+<br><br/>
+
+### **[[FACILITY] Hotspot Tool Link](https://github.com/ICPI/GIS/tree/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS)**
+
+### **[[PSNU] Hotspot Tool Link](https://github.com/ICPI/GIS/tree/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/PSNU_HS)**
+
+
 <br><br/>
 
 # WHAT IS THIS TOOL?
