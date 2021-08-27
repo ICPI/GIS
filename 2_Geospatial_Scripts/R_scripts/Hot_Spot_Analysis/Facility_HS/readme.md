@@ -262,7 +262,7 @@ st_write(Data_sf, "OutputShapefileFacility.shp")
 # Export as a CSV
 write.table(HSData, file="OutputTableFacility.csv",sep=",",row.names=F)
 ```
-Export the data as a shapefile for using in other spatial software. Export the data as a CSV to be used in Excel, BI software, or any other program that uses data tables. 
+Export the data as a shapefile for using in other spatial software. Export the data as a CSV to be used in Excel, BI software, or any other program that uses data tables. Rename these files whatever you prefer.
 
 <br><br/>
 <br><br/>
