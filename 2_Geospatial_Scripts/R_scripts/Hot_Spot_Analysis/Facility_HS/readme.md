@@ -11,7 +11,7 @@ For this walkthrough, dummy data within Ethiopia was used. Your results will dif
 
 **SECTION 1: SETTING UP THE SCRIPT**
 
-SECTION 1 IMAGE
+![](https://raw.githubusercontent.com/ICPI/GIS/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS/images/SECTION%201.png)
 
 This section is mostly straightforward. Install/import the required libraries to execute this tool. Please set your working directory to save all the various outputs. Please place all programmatic data tables and PEPFAR shapefiles within this folder.
 
@@ -20,9 +20,7 @@ This section is mostly straightforward. Install/import the required libraries to
 
 **SECTION 2: IMPORT THE DATA**
 
-SECTION 2 IMAGE
-
-<br><br/>
+![](https://raw.githubusercontent.com/ICPI/GIS/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS/images/SECTION%202.png)
 
 In this section we will be importing our datasets.
 
@@ -63,7 +61,7 @@ An [optional] check.
 
 To see an example of how a table could be organized, see the image below. Note that this tool will have to be run twice, once for the hot spot analysis based on the metrics and another for the raw number column.
 
-EXAMPLE TABLE IMAGE
+![](https://raw.githubusercontent.com/ICPI/GIS/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS/images/ExampleTable.png)
 
 <br><br/>
 
@@ -87,9 +85,7 @@ More [optional] lines of code to check your merged dataset.
 
 **SECTION 3: HOT SPOT ANALYSIS**
 
-SECTION 3 IMAGE
-
-<br><br/>
+![](https://raw.githubusercontent.com/ICPI/GIS/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS/images/SECTION%203.png)
 
 This section should be mostly automatic, with minor user changes needed. The section begins by gathering distance information based on the dataset’s geographic distribution. Once those calculations are completed, the hot spot analysis is executed and Z-Scores are created. Once we have Z-Scores, we then calculate P-Values and rename the column to be more human friendly. 
 
@@ -102,7 +98,7 @@ ptdist=pointDistance(MData)
 ```
 Using the merged dataset (MData), create a straight line point distance matrix. The file will look something like this:
 
-PTDIST IMAGE EXAMPLE
+![](https://raw.githubusercontent.com/ICPI/GIS/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS/images/PTDIST.png)
 
 ```
 min.dist<-min(ptdist);
@@ -176,8 +172,6 @@ Calculate P-Values based on the Z-Scores using the standard calculation provided
 
 **[OPTIONAL] SECTION: CHECK OUTPUTS**
 
-<br><br/>
-
 ```
 # Number of Hot Spots
 
@@ -209,9 +203,7 @@ In this optional step, you can quickly check cold and hot spots within the R Stu
 
 **SECTION 4: RECLASSIFYING THE HOT SPOT DATA**
 
-SECTION 4 IMAGE
-
-<br><br/>
+![](https://raw.githubusercontent.com/ICPI/GIS/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS/images/SECTION%204.png)
 
 In this section we will clean up the data to only keep the needed information. We will also create hot spot scores based on standard classifications of Z-Scores and P-Values. The hot spot scores will range from -3 to 3. This will make the data easier to display in other platforms. 
 
@@ -261,9 +253,7 @@ class(HSData)
 
 **SECTION 5: EXPORTING THE DATA**
 
-SECTION 5 IMAGE
-
-<br><br/>
+![](https://raw.githubusercontent.com/ICPI/GIS/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS/images/SECTION%205.png)
 
 ```
 # Export as a Shapefile
@@ -440,10 +430,8 @@ Display the map.
 
 R LEAFLET OUTPUT:
 
-R LEAFLET IMAGE
+![](https://raw.githubusercontent.com/ICPI/GIS/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS/images/R.Fac.Leaflet.png)
 
 QGIS OUTPUT:
 
-QGIS IMAGE
-
-
+![](https://raw.githubusercontent.com/ICPI/GIS/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS/images/QGIS.HS.png)
