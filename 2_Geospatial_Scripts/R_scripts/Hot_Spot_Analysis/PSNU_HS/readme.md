@@ -3,7 +3,7 @@
 <br><br/>
 <br><br/>
 
-# FACILITY SCRIPT BREAKDOWN: 
+# PSNU SCRIPT BREAKDOWN: 
 
 For this walkthrough, dummy data within Ethiopia was used. Your results will differ. 
 
