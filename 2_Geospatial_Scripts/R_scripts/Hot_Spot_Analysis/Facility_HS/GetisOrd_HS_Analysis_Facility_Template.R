@@ -115,7 +115,7 @@ subset(HSData@data,Zscore<=-1.65&Zscore>-1.96&pvalue>0.05&pvalue<=0.1)$facility 
 names(HSData)
 HSData@data <- HSData@data %>% 
   # For Older Versions of R, Remove "dplyr::select"
-  dplyr::select(level3, level4, level5, level6, level7, uid, TLD_PERC, Zscore, pvalue, LONG, LAT) %>%
+  dplyr::select(level3, level4, level5, level6, level7, uid, Derived_Metric, Zscore, pvalue, LONG, LAT) %>%
   #Optional Step, based on results from names(shapefile)
   #rename(level3 = old_name,
          #level4 = old_name,
@@ -180,11 +180,10 @@ labels <- c("Coldspot [99% Confidence]", "Coldspot [95% Confidence]", "Coldspot 
 # 4) Add layers to map
 map <- leaflet(NHSData) %>% 
   
-  # Add Basemap
+  # Add Basemap + Set Layer Visual Layer
   addTiles() %>%
-  addProviderTiles(providers$CartoDB.Positron) %>%
-  addMapPane("Facilities", zIndex = 430) %>% # shown below ames_circles
-  addMapPane("PSNU", zIndex = 420) %>% # shown above ames_lines
+  addMapPane("Facilities", zIndex = 430) %>% 
+  addMapPane("PSNU", zIndex = 420) %>%
   
   # Add Facility Data
   addCircles(
