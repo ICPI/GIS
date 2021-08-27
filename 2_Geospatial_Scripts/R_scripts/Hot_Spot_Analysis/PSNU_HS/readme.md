@@ -1,4 +1,4 @@
-### **[Click HERE for a direct link to the script](https://github.com/ICPI/GIS/blob/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS/GetisOrd_HS_Analysis_Polygon_Template.R)**
+### **[Click HERE for a direct link to the script](https://github.com/ICPI/GIS/blob/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/PSNU_HS/GetisOrd_HS_Analysis_Polygon_Template.R)**
 
 <br><br/>
 <br><br/>
