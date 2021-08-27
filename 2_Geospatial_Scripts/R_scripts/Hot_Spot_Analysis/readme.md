@@ -1,10 +1,16 @@
-![](https://raw.githubusercontent.com/ICPI/GIS/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS/images/HSGrid.png)
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/ICPI/GIS/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS/images/HSGrid.png">
+</p>
 
+<h2>
+<p align="center">
+  <strong><a href="https://github.com/ICPI/GIS/tree/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS">[FACILITY] Hotspot Tool Link</a></strong>
+</p>
 
-### **[[FACILITY] Hotspot Tool Link](https://github.com/ICPI/GIS/tree/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS)**
-
-### **[[PSNU] Hotspot Tool Link](https://github.com/ICPI/GIS/tree/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/PSNU_HS)**
-
+<p align="center">
+  <strong><a href="https://github.com/ICPI/GIS/tree/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/PSNU_HS">[PSNU] Hotspot Tool Link</a></strong>
+</p>
+</h2>
 
 <br><br/>
 
