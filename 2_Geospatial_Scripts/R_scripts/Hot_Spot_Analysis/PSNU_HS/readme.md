@@ -4,6 +4,12 @@
 </p>
 </h2>
 
+
+<p align="center">
+  <strong><a href="https://github.com/ICPI/GIS/blob/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/PSNU_HS/HS_R_PSNU_QGIS_Style.qml">If exporting the final shapefile into QGIS, use this hot spot style file</a></strong>
+</p>
+
+
 <br><br/>
 <br><br/>
 
