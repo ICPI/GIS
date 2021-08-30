@@ -4,6 +4,10 @@
 </p>
 </h2>
 
+<p align="center">
+  <strong><a href="https://github.com/ICPI/GIS/blob/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS/HS_R_Facility_QGIS_Style.qml">If exporting the final shapefile into QGIS, use this hot spot style file</a></strong>
+</p>
+
 <br><br/>
 <br><br/>
 
@@ -434,10 +438,10 @@ Display the map.
 
 **SUMMARY SECTION: COMPARING THE OUTPUT TO QGIS ANALYSIS**
 
-R LEAFLET OUTPUT:
+OUTPUT SHAPEFILE FROM THIS SCRIPT:
 
-![](https://raw.githubusercontent.com/ICPI/GIS/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS/images/R.Fac.Leaflet.png)
+![](https://raw.githubusercontent.com/ICPI/GIS/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS/images/QGIS.HS.R.png)
 
-QGIS OUTPUT:
+OUTPUT SHAPEFILE IF RUN THROUGH QGIS:
 
 ![](https://raw.githubusercontent.com/ICPI/GIS/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS/images/QGIS.HS.png)
