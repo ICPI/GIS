@@ -1,4 +1,8 @@
-### **[Click HERE for a direct link to the script](https://github.com/ICPI/GIS/blob/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS/GetisOrd_HS_Analysis_Facility_Template.R)**
+<h2>
+<p align="center">
+  <strong><a href="https://github.com/ICPI/GIS/blob/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS/GetisOrd_HS_Analysis_Facility_Template.R">[FACILITY] Hotspot Script Direct Link</a></strong>
+</p>
+</h2>
 
 <br><br/>
 <br><br/>
@@ -109,6 +113,8 @@ Using the point distance matrix (ptdist), determine the minimum distance between
 q10.dist<-as.numeric(quantile(ptdist,probs=0.10)); 
 ```
 Using the point distance matrix (ptdist), use the *as.numeric()* function to get the lower 10% of a quantile distribution. For this example, Ethiopia is a large country so the value is approximately 130km. While 0.10 is the standard calculation, this in an instance where user parameters can affect the final output. For instance, if I believed that 130km is too large of a catchment area for each facility, I might run *probs=0.25* or *0.50* to get create a catchment area closer to 50km. There is not correct answer and is highly dependent on the geographical distribution of the points. It may be worth running the analysis more than once and compare results. This value will be referred to as “q10.dist” within the script. If using a value other than *0.10*, it may be helpful to rename this value. 
+
+![](https://raw.githubusercontent.com/ICPI/GIS/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/Facility_HS/images/Quantile.png)
 
 ```
 nb<-dnearneigh(coordinates(MData),min.dist,q10.dist) 
