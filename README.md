@@ -37,13 +37,13 @@ The final category, [online mapping](/3_Web_Mapping), contains links to live exa
 
 - [Section 1 - Python Based Scripts](https://github.com/ICPI/GIS/tree/master/2_Geospatial_Scripts/Python_scripts)
 - [Section 2 - R Based Scripts](https://github.com/ICPI/GIS/tree/master/2_Geospatial_Scripts/R_scripts)
-- [Section 3 - Learning SQL](/2_Geospatial_Scripts)
+- Section 3 - Learning SQL
 
 **Category 3 - Online Mapping**
 
-- [Section 1 - JavaScript Web Maps](/3_Web_Mapping)
-- [Section 2 - Python Web Maps](/3_Web_Mapping)
-- [Section 3 - R Web Maps](/3_Web_Mapping)
+- Section 1 - JavaScript Web Maps
+- Section 2 - Python Web Maps
+- Section 3 - R Web Maps
 
 **Other Category - GIS Cluster Files**
 
