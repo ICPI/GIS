@@ -25,24 +25,18 @@ The final category, [online mapping](/3_Web_Mapping), contains links to live exa
 
 ---
 
-## **RECENTLY ADDED SECTIONS**
-
-[Learning QGIS, Section 1](/1_QGIS_Tutorials/Section_1_QGIS_Basics) [02/03/2020]
-
----
-
 ## Table of Contents
 
 **Category 1 - QGIS Tutorials**
 
-- [Section 1 - An Introduction to QGIS](/1_QGIS_Tutorials/Section_1_QGIS_Basics)
+- [Section 1 - An Introduction to QGIS](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics)
 - [Section 2 - QGIS Common Tools](/1_QGIS_Tutorials)
 - [Section 3 - Advanced QGIS Analysis](/1_QGIS_Tutorials)
 
 **Category 2 - Geospatial Scripts**
 
-- [Section 1 - Python Based Scripts](/2_Geospatial_Scripts)
-- [Section 2 - R Based Scripts](/2_Geospatial_Scripts)
+- [Section 1 - Python Based Scripts](https://github.com/ICPI/GIS/tree/master/2_Geospatial_Scripts/Python_scripts)
+- [Section 2 - R Based Scripts](https://github.com/ICPI/GIS/tree/master/2_Geospatial_Scripts/R_scripts)
 - [Section 3 - Learning SQL](/2_Geospatial_Scripts)
 
 **Category 3 - Online Mapping**
