@@ -43,17 +43,17 @@
 * [Unit 1 - Focused QGIS 3.xx Tutorial Learning Modules](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_2_Using_QGIS/Unit1_QGIS_Crash_Course)
 * [Unit 2 - Creating a Map in QGIS Using PEPFAR Dat](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_2_Using_QGIS/Unit2_Create_a_Simple_Map)
 
-**[Chapter 3 - Creating Maps Using MicroStrategy]()**
+**Chapter 3 - Creating Maps Using MicroStrategy**
 
-* [Unit 1 - Exisiting MicroStrategy Maps within Panorama]()
-* [Unit 2 - Creating a Basic Point/Choropleth Map]()
-* [Unit 3 - Advanced Maps]()
+* Unit 1 - Exisiting MicroStrategy Maps within Panorama
+* Unit 2 - Creating a Basic Point/Choropleth Map
+*[Unit 3 - Advanced Maps
 
 **Chapter 4 - Tips and Other Helpful Information**
 
-* [1 - How to Lie with Maps]()
-* [2 - Geospatial Data Management]()
-* [3 - Common Data Sources]()
-* [4 - DATIM Geographic Heirachy]()
+* 1 - How to Lie with Maps
+* 2 - Geospatial Data Management
+* 3 - Common Data Sources
+* 4 - DATIM Geographic Heirachy
 
 **Chapter 5 - R + Python Based Mapping**
