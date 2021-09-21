@@ -1,0 +1,904 @@
+Region,Zone,Woreda,Site,Site_Type,LONG,LAT,uid,TLD_PERC,SC_CURR
+Addis Ababa,Arada,Arada,Adawa higher clinic,Clinic,9.038733,38.755367,siteuid1,0,0
+Addis Ababa,Addis Ketema,Addis Ketema,Addis ketema,Health Center,9.035833,38.720883,siteuid2,33,286
+Addis Ababa,Akaki Kality,Akaki Kality,Akaki HC,Health Center,8.873683,38.787117,siteuid3,40,964
+Addis Ababa,kolfe keraniyo,kolfe keraniyo,Alet specialized hospital,Hospital,8.985217,38.706750,siteuid4,50,4156
+Addis Ababa,Addis Ketema,Addis Ketema,Amanuel specialized hospital,Hospital,9.024217,38.720667,siteuid5,4,1732
+Addis Ababa,Arada,Arada,Arada HC,Health Center,9.035267,38.751750,siteuid6,-4,1332
+Addis Ababa,Yeka,Yeka,Asegedech mch  hospital,Hospital,9.019417,38.792717,siteuid7,13,393
+Addis Ababa,kolfe keraniyo,kolfe keraniyo,Awolia HC,Health Center,9.055067,38.705800,siteuid8,92,0
+Addis Ababa,Lideta,Lideta,Balcha hospital,Hospital,9.007183,38.736000,siteuid9,51,236
+Addis Ababa,Lideta,Lideta,Beletshachew HC,Health Center,9.008967,38.736500,siteuid10,19,3526
+Addis Ababa,Kirkos,Kirkos,Bethzatha hospital,Hospital,9.007550,38.753067,siteuid11,-66,9866
+Addis Ababa,Bole,Bole,Betsegaw hospital,Hospital,9.002683,38.773033,siteuid12,4,5058
+Addis Ababa,Kirkos,Kirkos,Bgm mch hospital,Hospital,9.007833,38.770833,siteuid13,10,822
+Addis Ababa,Addis Ketema,Addis Ketema,Black lion specialized hospital,Hospital,9.019217,38.742533,siteuid14,0,20
+Addis Ababa,Bole,Bole,Bole 17/20 HC,Health Center,8.985683,38.775183,siteuid15,2,700
+Addis Ababa,Bole,Bole,Bole HC,Health Center,9.003017,38.786900,siteuid16,5,831
+Addis Ababa,Bole,Bole,Brass mateinity & chiled health hospital,Hospital,8.987433,38.789433,siteuid17,55,704
+Addis Ababa,Yeka,Yeka,Dagmawi menilik referal hospital,Hospital,9.036217,38.771700,siteuid18,11,4615
+Addis Ababa,Yeka,Yeka,Din berwa mch,Hospital,9.018750,38.787767,siteuid19,0,0
+Addis Ababa,Arada,Arada,Dr nigatu speciale clinic,Clinic,9.035500,38.743233,siteuid20,-9,4588
+Addis Ababa,Yeka,Yeka,Entoto no 1 HC,Health Center,9.040767,38.793333,siteuid21,0,0
+Addis Ababa,Bole,Bole,Ethio-korea hospital,Hospital,8.992983,38.804633,siteuid22,-22,680
+Addis Ababa,Gulele,Gulele,Firimetodist HC,Health Center,9.054533,38.756667,siteuid23,21,93
+Addis Ababa,Kirkos,Kirkos,Gandhi memorial hospital,Hospital,9.009200,38.753300,siteuid24,16,672
+Addis Ababa,Arada,Arada,Gulele HC,Health Center,9.066000,38.738450,siteuid25,14,4196
+Addis Ababa,Nifas silk Lafto,Nifas silk Lafto,Harer higer clinic,Health Center,8.996833,38.736200,siteuid26,0,0
+Addis Ababa,Bole,Bole,Hayat privat hospital,Hospital,8.990133,38.790483,siteuid27,11,2800
+Addis Ababa,Akaki Kality,Akaki Kality,Kality HC,Health Center,8.911000,38.772000,siteuid28,3,4583
+Addis Ababa,Arada,Arada,Katederal HC,Health Center,9.024817,38.743317,siteuid29,15,973
+Addis Ababa,Kirkos,Kirkos,Kazanchis HC,Health Center,9.008050,38.770083,siteuid30,41,6093
+Addis Ababa,Lideta,Lideta,Kebele 18 HC,Health Center,9.023267,38.735883,siteuid31,24,3796
+Addis Ababa,Arada,Arada,Kebena HC,Health Center,9.025733,38.772567,siteuid32,34,567
+Addis Ababa,Arada,Arada,Kibre higher clinic,Clinic,9.021667,38.754283,siteuid33,14,1317
+Addis Ababa,Kirkos,Kirkos,Kirkos HC,Health Center,9.016333,38.742217,siteuid34,0,0
+Addis Ababa,kolfe keraniyo,kolfe keraniyo,Kolfe HC,Health Center,9.040200,38.706750,siteuid35,13,1616
+Addis Ababa,kolfe keraniyo,kolfe keraniyo,Kolfe higher clinic,Clinic,9.036500,38.709267,siteuid36,30,989
+Addis Ababa,Addis Ketema,Yeka,Kotebe HC,Health Center,9.025133,38.824433,siteuid37,6,4350
+Addis Ababa,Kirkos,Kirkos,Kt gebrel HC,Health Center,9.003417,38.755550,siteuid38,0,1869
+Addis Ababa,Lideta,Lideta,Ledeta HC,Health Center,9.003200,38.742167,siteuid39,0,4377
+Addis Ababa,Bole,Bole,Magenagna higher clinic,Clinic,9.008833,38.789700,siteuid40,-7,683
+Addis Ababa,Kirkos,Kirkos,Marie stopes clinic meshalokia branch,Health Center,8.990767,38.755150,siteuid41,-3,10280
+Addis Ababa,Yeka,Yeka,Megbare senay HC,Health Center,9.021233,38.774833,siteuid42,9,8028
+Addis Ababa,Bole,Bole,Merih hospital,Hospital,8.990650,38.808383,siteuid43,-15,1578
+Addis Ababa,Arada,Arada,Mery stopes arada  worada,Health Center,9.024883,38.763333,siteuid44,0,2358
+Addis Ababa,Kirkos,Kirkos,Meshualekia HC,Health Center,9.008333,38.757350,siteuid45,0,875
+Addis Ababa,Nifas silk Lafto,Nifas silk Lafto,Nifas silk laffto no 01 HC,Health Center,8.957967,38.758683,siteuid46,3,1994
+Addis Ababa,Nefas silk lafto,Nifas silk Lafto,Nifas silk lafto no 02 HC,Health Center,8.986267,38.720700,siteuid47,8,2498
+Addis Ababa,Lideta,Lideta,Police referal hospital,Hospital,9.007500,38.737350,siteuid48,9,706
+Addis Ababa,Arada,Arada,Ras desta hospital,Hospital,9.040033,38.739817,siteuid49,-5,1510
+Addis Ababa,Gulele,Gulele,Selam HC,Health Center,9.052550,38.724333,siteuid50,-15,8566
+Addis Ababa,Gulele,Gulele,Sheromeda HC,Health Center,9.053283,38.755167,siteuid51,-1,384
+Addis Ababa,Bole,Bole,St. gebrel hospital,Hospital,9.005750,38.786850,siteuid52,20,719
+Addis Ababa,Bole,Bole,St.geberel hospital,Hospital,9.008683,38.743300,siteuid53,-16,7330
+Addis Ababa,Gulele,Gulele,St.paul specialized referal hospital,Hospital,9.041983,38.723967,siteuid54,0,120
+Addis Ababa,Addis Ketema,Addis Ketema,St.peter's tb specialized hospital,Hospital,9.036433,38.720500,siteuid55,-20,1019
+Addis Ababa,Lideta,Lideta,Tekele hamanot HC,Health Center,9.023233,38.741467,siteuid56,-4,515
+Addis Ababa,Arada,Arada,Tesfa higher clinic,Clinic,9.025383,38.765000,siteuid57,49,2183
+Addis Ababa,Kirkos,Kirkos,Universal higher clinic,Health Center,9.009283,38.753817,siteuid58,-1,3166
+Addis Ababa,Addis Ketema,Addis Ketema,Woreda 07 HC,Health Center,9.035267,38.720300,siteuid59,1,4937
+Addis Ababa,Lideta,Lideta,Woreda 24 HC,Health Center,8.992383,38.719833,siteuid60,36,17726
+Addis Ababa,Yeka,Yeka,Yeka HC,Health Center,9.021833,38.789833,siteuid61,3,2156
+Addis Ababa,Arada,Arada,Yekatit 12 hospital,Hospital,9.039467,38.756533,siteuid62,31,514
+Addis Ababa,Kirkos,Kirkos,Zewditu memorial hospital,Hospital,9.015500,38.803167,siteuid63,99,0
+Afar,Zone 2,Abl'ala,Abaala HC,Health Center,13.342167,39.751700,siteuid64,0,0
+Afar,Zone 3,Awash Fentale,Awash HC,Health Center,8.990683,40.157867,siteuid65,20,1376
+Afar,Zone 1,Aysaita,Aysaita HC,Health Center,11.570650,41.426333,siteuid66,0,4920
+Afar,Zone 2,Berhale,Berhale HC,Health Center,13.837167,40.003800,siteuid67,48,1043
+Afar,Zone 1,Chifra,Chifra HC,Health Center,11.592433,40.029333,siteuid68,0,0
+Afar,Zone 5,Dalifage,Dalifage HC,Health Center,10.624467,40.309567,siteuid69,1,6779
+Afar,Zone 3,Buromedgto,Debel HC,Health Center,9.974650,40.530000,siteuid70,16,1879
+Afar,Zone 1,Dubti,Dubti hospital,Hospital,11.724383,41.094000,siteuid71,-2,62511
+Afar,Zone 1,Elidar,Elidar HC,Health Center,12.064667,41.918483,siteuid72,20,2290
+Afar,Zone 3,Gewane 03,Gewane HC,Health Center,10.156967,40.658500,siteuid73,48,921
+Afar,Zone 4,Gulina,Kelwan HC,Health Center,12.140867,39.975767,siteuid74,30,10844
+Afar,Zone 3,Amibara 01,Melka worer HC,Health Center,9.335067,40.174417,siteuid75,40,0
+Afar,Zone 3,Amibara 01,National hospital,Hospital,9.254283,40.155767,siteuid76,0,192
+Afar,Zone 1,Dubti,Semera HC,Health Center,11.790617,41.008333,siteuid77,43,710
+Afar,Zone 5,Telalak,Telalak HC,Health Center,10.921450,40.205800,siteuid78,-20,370
+Afar,Zone 4,Yallo,Yallo HC,Health Center,12.358017,39.875867,siteuid79,22,238
+Amahara,Awi,Gnagua / Changni Town/,Addis kedam HC,Health Center,11.096833,36.890167,siteuid80,0,0
+Amahara,South Gondar,Libo Kemkem,Addis zemen HC,Health Center,12.121233,37.774050,siteuid81,23,1076
+Amahara,West Gojjam,Yilmana Denssa,Adet HC,Health Center,11.256150,37.488633,siteuid82,26,978
+Amahara,North Gondar,Adiarkay,Adiarkay HC,Health Center,13.443317,38.055117,siteuid83,0,508
+Amahara,West Gojjam,Gonj Kollela,Adis alem HC,Health Center,11.218950,37.673583,siteuid84,16,1895
+Amahara,South Wollo,Tenta,Adjibar HC,Health Center,11.236733,39.240117,siteuid85,-15,1041
+Amahara,Awi,Injibar Town,Agewgemjabet HC,Health Center,10.853567,36.892117,siteuid86,27,579
+Amahara,West Gojjam,Sekela,Agut HC,Health Center,10.840150,37.158500,siteuid87,16,4488
+Amahara,North Shoa,Merabetie,Alem ketema enat hospital,Hospital,10.058050,38.989200,siteuid88,0,0
+Amahara,South Gondar,Fogera,Alember HC,Health Center,11.906783,37.876517,siteuid89,19,2819
+Amahara,East Gojjam,Machakel,Amanuel HC,Health Center,10.439500,37.559617,siteuid90,18,293
+Amahara,North Gondar,Wogera,Amba giorgis HC,Health Center,12.768500,37.619683,siteuid91,-6,4789
+Amahara,East Gojjam,Aneded,Ambere HC,Health Center,10.264500,37.839583,siteuid92,1,29032
+Amahara,Waghimra,Dhana,Amdework HC,Health Center,12.422467,38.707950,siteuid93,-1,9637
+Amahara,South Gondar,Dera,Anbesamie HC,Health Center,11.702667,37.624233,siteuid94,12,687
+Amahara,West Gojjam,Bihar Dar zuria,Andassa HC,Health Center,11.510333,37.485283,siteuid95,-72,4932
+Amahara,North Shoa,Ankober,Ankober health centre,Health Center,9.605517,39.735517,siteuid96,-72,2138
+Amahara,North Gondar,West Belesa,Arbaya HC,Health Center,12.473800,37.822400,siteuid97,16,10089
+Amahara,South Gondar,Tach Gaynt,Arbgebaya HC,Health Center,11.609133,38.535200,siteuid98,0,0
+Amahara,North Shoa,Asagirt,Asagirt health centre,Health Center,9.340333,39.570000,siteuid99,-4,1788
+Amahara,North Gondar,West Belesa,Ashker terara HC,Health Center,12.337850,37.875083,siteuid100,20,532
+Amahara,Waghimra,Asketema,Asketema HC,Health Center,12.408783,39.008467,siteuid101,-1,4946
+Amahara,North Shoa,Efrata Gidim,Ataye health centre,Health Center,10.335000,39.956133,siteuid102,15,8802
+Amahara,North Gondar,Alefa,Atsede mariam HC,Health Center,12.005017,36.837167,siteuid103,30,281
+Amahara,North Wollo,Ayina Bugna,Ayina HC,Health Center,12.158517,38.835417,siteuid104,33,723
+Amahara,North Gondar,chilga,Aykel HC,Health Center,12.553050,37.068333,siteuid105,0,0
+Amahara,North Gondar,Gondar town,Azezo HC,Health Center,12.554000,37.424800,siteuid106,0,0
+Amahara,Bahirdar Liyu,Bahirdar administration,Bahirdar HC,Health Center,11.590317,37.376217,siteuid107,-2,9146
+Amahara,South Wollo,Dessie Town,Bati general hospital,Hospital,11.144000,39.626083,siteuid108,15,790
+Amahara,Oromia,Bati,Bati HC,Health Center,11.189550,40.019800,siteuid109,11,3234
+Amahara,East Gojjam,Enemay,Bichena HC,Health Center,10.443317,38.192200,siteuid110,27,560
+Amahara,South Wollo,Werebabo,Bistima HC,Health Center,11.343833,39.780333,siteuid111,13,15322
+Amahara,South Wollo,Werebabo,Bokokesa HC,Health Center,11.435983,39.872650,siteuid112,25,4655
+Amahara,Oromia,Dewie Harawa,Bora HC,Health Center,10.676467,40.040567,siteuid113,0,384
+Amahara,South Wollo,Dessie Town,Boru meda hospital,Hospital,11.220033,39.609467,siteuid114,15,827
+Amahara,South Wollo,Dassie Town,Buanbua wuha HC,Health Center,11.140667,39.636617,siteuid115,-21,7976
+Amahara,North Shoa,Hageremariam Kesem,Bulga health centre,Health Center,9.206000,39.403533,siteuid116,0,0
+Amahara,West Gojjam,Bure,Bure HC,Health Center,10.704550,37.057850,siteuid117,100,0
+Amahara,North Shoa,Angolella and Tera,Chacha health centre,Health Center,9.537983,39.456383,siteuid118,20,3127
+Amahara,Awi,Ankesha / Gnagsha Shiwdad,Chagni HC,Health Center,10.954667,36.502783,siteuid119,43,380
+Amahara,Oromia,Dewa Chafa,Charati debesi HC,Health Center,10.589317,39.919700,siteuid120,14,4886
+Amahara,Oromia,Artuma Fursi,Chefarobit HC,Health Center,10.552067,39.925133,siteuid121,3,384
+Amahara,South Wollo,Dessie Zuria,Cherecha health centre,Health Center,10.975100,39.409083,siteuid122,10,1200
+Amahara,North Wollo,Delanta,Chew kutir HC,Health Center,11.520167,39.085050,siteuid123,8,239
+Amahara,Waghimra,Dhana,Chila HC,Health Center,12.440450,38.837400,siteuid124,33,1158
+Amahara,North Gondar,Dabat,Dabat HC,Health Center,12.975600,37.756083,siteuid125,18,1276
+Amahara,Awi,Dangla,Dangla HC,Health Center,11.253533,36.840533,siteuid126,9,565
+Amahara,North Gondar,Debark,Debark district hospital,Hospital,13.138467,37.889300,siteuid127,0,0
+Amahara,North Gondar,Debark,Debark HC,Health Center,13.154367,37.902633,siteuid128,21,188
+Amahara,East Gojjam,Enarj Enawega,Deberework HC,Health Center,10.653283,38.156417,siteuid129,-50,486
+Amahara,North Shoa,Debre Birhan Town,Debre birhan HC,Health Center,9.668450,39.523400,siteuid130,39,1845
+Amahara,North Shoa,Debre Birhan Town,Debre birhan hospital,Hospital,9.674200,39.543333,siteuid131,100,0
+Amahara,East Gojjam,Debre Elias,Debre elias HC,Health Center,10.307500,37.454283,siteuid132,74,226
+Amahara,East Gojjam,debaye Telatigin,Debre eyesus HC,Health Center,10.603167,37.925800,siteuid133,-43,899
+Amahara,East Gojjam,Debre Markos,Debre markos HC,Health Center,10.335533,37.723283,siteuid134,-19,75
+Amahara,East Gojjam,Debremarkos Administrative,Debre markos zonal hospital,Hospital,10.321033,37.722117,siteuid135,-2,381
+Amahara,South Gondar,Debretabor,Debre tabor HC,Health Center,11.856950,38.002967,siteuid136,19,115
+Amahara,South Gondar,Debretabor,Debre tabor hospital,Hospital,11.851967,38.008250,siteuid137,-4,130
+Amahara,North Shoa,Tamraber,Debresina health centre,Health Center,9.840850,39.756650,siteuid138,43,46
+Amahara,South Wollo,Mekidela,Debrezeit HC,Health Center,11.192500,38.945000,siteuid139,26,1209
+Amahara,South Wollo,Kalu,Degan HC,Health Center,11.139567,39.890167,siteuid140,45,370
+Amahara,South Wollo,Kelela,Deger HC,Health Center,10.444500,38.985133,siteuid141,-18,67
+Amahara,South Wollo,Jama,Degolo health centre,Health Center,10.423833,39.257917,siteuid142,30,798
+Amahara,East Gojjam,Dejine,Dejen HC,Health Center,10.169150,38.155833,siteuid143,19,294
+Amahara,North Gondar,Takusa,Delgi HC,Health Center,12.189333,37.040617,siteuid144,39,2644
+Amahara,West Gojjam,Dembecha,Dembecha HC,Health Center,10.574000,37.476250,siteuid145,15,435
+Amahara,North Shoa,Sia Debirna Wayu,Deneba health centre,Health Center,9.753850,39.189517,siteuid146,13,184
+Amahara,North Gondar,Alefa,Dengel ber HC,Health Center,11.941500,36.992767,siteuid147,4,430
+Amahara,South Wollo,Dessie Town,Dessie HC,Health Center,11.120683,39.635283,siteuid148,8,3614
+Amahara,South Wollo,Dessie Town,Dessie referal hospital,Hospital,11.124983,39.635133,siteuid149,68,264
+Amahara,East Gojjam,Blubugn,Digo tsion HC,Health Center,10.840217,37.736467,siteuid150,31,6357
+Amahara,Awi,Banja Shikudad,Dinkera HC,Health Center,10.971217,36.758617,siteuid151,0,0
+Amahara,West Gojjam,Semen Achefer,Durbete HC,Health Center,11.353667,36.953917,siteuid152,-14,946
+Amahara,South Gondar,Ebinat,Ebinat HC,Health Center,12.129667,38.055500,siteuid153,15,1812
+Amahara,North Shoa,Moretna Jiru,Enewarie health centre,Health Center,9.890717,39.142883,siteuid154,15,65
+Amahara,North Gondar,Gonder Zuriya,Enfranz HC,Health Center,12.255483,37.622867,siteuid155,8,1036
+Amahara,South Gondar,Estie,Estie HC,Health Center,11.605000,38.055117,siteuid156,-24,30
+Amahara,East Gojjam,Enarj Enawega,Felege birhan HC,Health Center,10.739567,38.069533,siteuid157,21,205
+Amahara,Bahirdar Liyu,Bahirdar administration,Felege hiwot referal hospital,Hospital,11.604283,37.368833,siteuid158,35,3275
+Amahara,West Gojjam,Jabi Tehnan,Fenote selam hospital,Hospital,10.673867,37.279333,siteuid159,78,298
+Amahara,West Gojjam,Feres Bet,Feresbet HC,Health Center,10.842800,37.605283,siteuid160,16,553
+Amahara,North Wollo,Mekit,Filakit HC,Health Center,11.768583,38.737150,siteuid161,59,4240
+Amahara,South Wollo,Dessie Zuria,Gelsha HC,Health Center,10.990967,39.556667,siteuid162,-4,51879
+Amahara,West Gojjam,Gonj Kollela,Geregera HC,Health Center,11.174183,37.602283,siteuid163,-8,1020
+Amahara,South Wollo,Legambo,Gimba health centre,Health Center,10.908417,39.301683,siteuid164,29,5910
+Amahara,West Gojjam,Sekela,Gishabay HC,Health Center,10.994000,37.205983,siteuid165,30,136
+Amahara,North Wollo,Kobo,Gobiye HC,Health Center,11.942583,39.657883,siteuid166,-45,2209
+Amahara,North Gondar,Gondar town,Gondar HC,Health Center,12.602983,37.468517,siteuid167,-29,992
+Amahara,North Gondar,Gondar town,Gondar referal hospital,Hospital,12.618333,37.455500,siteuid168,-9,1379
+Amahara,South Gondar,Wolesh,Gono HC,Health Center,11.507000,37.990067,siteuid169,11,3871
+Amahara,North Gondar,Dembia,Gorgora HC,Health Center,12.235567,37.290717,siteuid170,10,639
+Amahara,North Wollo,Delanta,Gosh meda HC,Health Center,11.537483,39.237783,siteuid171,0,0
+Amahara,North Shoa,Basona worena,Goshebado health centre,Health Center,9.740767,39.455333,siteuid172,-16,189
+Amahara,South Wollo,Dessie Zuria,Guguftu health centre,Health Center,10.906850,39.491850,siteuid173,0,143
+Amahara,East Gojjam,Gonchasiso Enseie,Gundweyen HC,Health Center,10.921450,38.094667,siteuid174,11,1356
+Amahara,East Gojjam,Dejene,Hagerselam HC,Health Center,10.241817,38.206317,siteuid175,0,0
+Amahara,South Wollo,Haik 05,Haik HC,Health Center,11.305000,39.673483,siteuid176,46,546
+Amahara,Waghimra,Sekota Town,Hamusit HC,Health Center,12.456567,39.151700,siteuid177,10,671
+Amahara,Bahirdar Liyu,Bahirdar administration,Han HC,Health Center,11.588333,37.385533,siteuid178,0,23
+Amahara,North Wollo,Guba lafto,Hara HC,Health Center,11.835967,39.740133,siteuid179,-31,783
+Amahara,South Wollo,Dessie Zuria,Hara wobelo HC,Health Center,11.022750,39.638133,siteuid180,34,255
+Amahara,South Wollo,Kalu,Harbu HC,Health Center,10.920850,39.775767,siteuid181,-29,942
+Amahara,South Wollo,Legambo,Hider 11 hospital,Hospital,10.857917,39.173350,siteuid182,70,0
+Amahara,Awi,Banja Shikudad,Injibara HC,Health Center,10.955133,36.922033,siteuid183,87,0
+Amahara,West Gojjam,Jabi Tehnan,Jiga HC,Health Center,10.670417,37.371117,siteuid184,-2,60
+Amahara,North Shoa,Moretna Jiru,Jihur health centre,Health Center,10.018833,39.240317,siteuid185,2,1351
+Amahara,South Wollo,Worielu,Kabie health centre,Health Center,10.822617,39.475000,siteuid186,-6,289
+Amahara,South Wollo,Kelela,Kelela HC,Health Center,10.585250,39.013500,siteuid187,0,0
+Amahara,Oromia,Kemissie City administration,Kemissie health centre,Health Center,10.718950,39.857233,siteuid188,-13,94
+Amahara,North Shoa,Basona worena,Keyit health centre,Health Center,9.724467,39.660500,siteuid189,-56,1937
+Amahara,Waghimra,Ziquala,Kidamit HC,Health Center,12.873967,38.854500,siteuid190,36,0
+Amahara,South Gondar,Farta,Kimir dengay HC,Health Center,11.807867,38.208283,siteuid191,19,1863
+Amahara,North Gondar,Dembia,Koladba HC,Health Center,12.421567,37.320933,siteuid192,-8,906
+Amahara,South Wollo,Kombolcha Town,Kombolcha HC,Health Center,11.086833,39.736017,siteuid193,-29,2150
+Amahara,North Gondar,Dembia,Konger HC,Health Center,12.373833,37.119233,siteuid194,20,2995
+Amahara,Waghimra,Dhana,Koziba HC,Health Center,12.476583,38.919567,siteuid195,47,150
+Amahara,West Gojjam,Semen Achefer,Kunzela HC,Health Center,11.873950,37.025767,siteuid196,-93,14506
+Amahara,North Wollo,Dawint,Kurba/chet HC,Health Center,11.455000,38.901983,siteuid197,-66,45220
+Amahara,South Wollo,Kutabar,Kutaber HC,Health Center,11.272883,39.540600,siteuid198,-11,1500
+Amahara,East Gojjam,Debay Telategin,Kuy HC,Health Center,10.505250,37.986717,siteuid199,-18,2562
+Amahara,North Wollo,Lalibela Town,Lalibela HC,Health Center,12.043167,39.039850,siteuid200,26,1767
+Amahara,North Shoa,Ensaro Wayu,Lemi HC,Health Center,9.802917,38.901700,siteuid201,13,1010
+Amahara,South Wollo,Kelela,Liquama HC,Health Center,10.654000,39.156783,siteuid202,37,1422
+Amahara,East Gojjam,Awabel,Lumamei HC,Health Center,10.242133,37.935083,siteuid203,23,750
+Amahara,North Shoa,Antsokia Gimza,Majetie health centre,Health Center,10.489583,39.856867,siteuid204,10,200
+Amahara,North Gondar,Janamora,Makane berhan HC,Health Center,13.013000,38.116500,siteuid205,11,2086
+Amahara,North Gondar,Gondar Zuria,Maksegnit HC,Health Center,12.391000,37.561500,siteuid206,43,140
+Amahara,West Gojjam,Jabi Tehnan,Mankussa HC,Health Center,10.705000,37.175033,siteuid207,0,0
+Amahara,North Gondar,Gondar town,Marake HC,Health Center,12.586250,37.452433,siteuid208,8,10
+Amahara,South Wollo,Mekidela,Masha HC,Health Center,11.225750,39.057117,siteuid209,26,582
+Amahara,North Shoa,Menz Gora,Mehal meda hospital,Hospital,10.308350,39.658200,siteuid210,6,3072
+Amahara,South Wollo,Debresina,Mekaneselam health centre,Health Center,10.740967,38.756767,siteuid211,5,3400
+Amahara,North Wollo,Lasta,Mekela patriots memorial hospital lalibe,Hospital,12.036883,39.051933,siteuid212,26,413
+Amahara,North Shoa,Antsokia Gimza,Mekoy health centre,Health Center,10.692500,39.790000,siteuid213,47,1593
+Amahara,North Shoa,Midda Woromo,Meragna health centre,Health Center,10.203550,39.096000,siteuid214,21,1423
+Amahara,West Gojjam,Mecha,Merawi HC,Health Center,11.419333,37.153417,siteuid215,10,5872
+Amahara,North Wollo,Habru,Mersa HC,Health Center,11.669900,39.656267,siteuid216,30,7582
+Amahara,East Gojjam,Enebse Sarmidir,Mertulemariam HC,Health Center,10.869683,38.269400,siteuid217,-1,227
+Amahara,North Shoa,Berehet,Meteh billa HC,Health Center,9.211167,39.704817,siteuid218,-10,4625
+Amahara,North Gondar,Metema,Metema helath center,Health Center,12.951867,36.156300,siteuid219,81,111
+Amahara,North Gondar,Metema,Metema hospital,Hospital,12.769367,36.408167,siteuid220,9,2235
+Amahara,North Shoa,Tarmaber,Mezezo HC,Health Center,9.924200,39.724100,siteuid221,34,99
+Amahara,North Shoa,Minjar Shenkora,Minjar health centre,Health Center,8.923033,39.419733,siteuid222,5,158
+Amahara,North Shoa,Menz Mama Midir,Mollalie health centre,Health Center,10.118800,39.657433,siteuid223,8,1401
+Amahara,East Gojjam,Hulet Ejju Enesie,Motta HC,Health Center,11.074633,37.875800,siteuid224,0,0
+Amahara,South Gondar,Lay Gayint,Nefas mewcha HC,Health Center,11.746500,38.459833,siteuid225,3,702
+Amahara,North Gondar,Chilga,Negade bahir HC,Health Center,12.593667,36.773800,siteuid226,-18,52
+Amahara,Waghimra,Abergelie,Neurak HC,Health Center,13.040700,38.986667,siteuid227,19,1479
+Amahara,West Gojjam,Quarite,Quarit HC,Health Center,10.990283,37.424817,siteuid228,1,1019
+Amahara,North Shoa,Gishe,Rabel HC,Health Center,10.539650,39.591183,siteuid229,14,10
+Amahara,North Wollo,Kobo,Robit HC,Health Center,12.005617,39.625267,siteuid230,-16,1212
+Amahara,West Gojjam,Bihar Dar zuria,Robit HC/emerging/,Health Center,11.687833,37.452850,siteuid231,39,1050
+Amahara,East Gojjam,Sinan,Robu gebeya HC,Health Center,10.540617,37.756500,siteuid232,29,3900
+Amahara,Waghimra,Sekota,Sakota HC,Health Center,12.621333,39.043500,siteuid233,-100,1891
+Amahara,North Gondar,Tach Armachiho,Sanja HC,Health Center,12.989583,37.289550,siteuid234,30,260
+Amahara,South Wollo,Sayint,Sayint HC,Health Center,11.035850,38.756383,siteuid235,-100,30
+Amahara,East Gojjam,Hulet Ejju Enesie,Sedie HC,Health Center,10.919783,37.887900,siteuid236,-53,1083
+Amahara,South Wollo,Albuko,Segnogebaye health centre,Health Center,10.874217,39.640783,siteuid237,-10,1025
+Amahara,North Gondar,Dembia,Sekelt HC,Health Center,12.543000,37.306500,siteuid238,-51,3459
+Amahara,North Shoa,Moja And wordera,Seladingay health centre,Health Center,9.954550,39.624367,siteuid239,-7,116
+Amahara,Oromia,Jilie Timuga,Senbetie health centre,Health Center,10.303983,39.988433,siteuid240,0,55
+Amahara,South Wollo,Dessie Town,Sengo gebeya HC,Health Center,11.113500,39.623933,siteuid241,46,6372
+Amahara,East Gojjam,Hulet Ejju Enesie,Shegaw motta geter hospital,Hospital,11.069917,37.889000,siteuid242,-16,13225
+Amahara,West Gojjam,Wenberima,Shindy HC,Health Center,10.642600,36.936467,siteuid243,26,2163
+Amahara,North Shoa,Shewarobit city administration,Shoa robit HC,Health Center,9.988350,39.911167,siteuid244,33,702
+Amahara,South Gondar,Simada,Simada HC,Health Center,11.392017,38.236583,siteuid245,41,60
+Amahara,North Gondar,Gondar town,Teda HC,Health Center,12.495000,37.469467,siteuid246,32,636
+Amahara,Waghimra,Sekota,Tefera hailu memorial hospital,Hospital,12.619367,39.035833,siteuid247,-29,367
+Amahara,North Gondar,Lay Armachiho,Tekle dengay HC,Health Center,12.761167,37.406783,siteuid248,-16,210
+Amahara,Awi,Fagita Lekoma,Tilieli HC,Health Center,10.857167,37.018933,siteuid249,-35,3648
+Amahara,South Wollo,Kelela,Tirtira HC,Health Center,10.607800,39.090500,siteuid250,0,0
+Amahara,Bahirdar Liyu,Bahirdar administration,Tis abay HC,Health Center,11.485450,37.575600,siteuid251,0,0
+Amahara,South Wollo,Albuko,Tosa felana health centre,Health Center,10.957683,39.659167,siteuid252,44,263
+Amahara,Waghimra,Ziquala,Tsitska HC,Health Center,12.776067,38.790150,siteuid253,2,1000
+Amahara,West Gojjam,Dembecha,Wade HC,Health Center,10.523750,37.342567,siteuid254,0,0
+Amahara,West Gojjam,Wonenberma,Wegedade HC,Health Center,10.523750,36.888367,siteuid255,0,204
+Amahara,North Wollo,Delanta,Wogel tena HC,Health Center,11.589683,39.206600,siteuid256,0,32
+Amahara,North Shoa,Menz lalo,Wogerie health centre,Health Center,10.156350,39.552433,siteuid257,-22,1090
+Amahara,South Wollo,Legehida,Woinamba HC,Health Center,10.703983,39.281167,siteuid258,-12,618
+Amahara,North Wollo,Woldiya Town,Woldiya HC,Health Center,11.824183,39.591850,siteuid259,0,0
+Amahara,North Wollo,Woldiya Town,Woldiya zonal hospital,Hospital,11.826200,39.592800,siteuid260,36,873
+Amahara,Waghimra,Sekota Town,Woleh HC,Health Center,12.525600,39.052667,siteuid261,0,255
+Amahara,South Gondar,Woreta,Woreta HC,Health Center,11.923583,37.702667,siteuid262,-21,1708
+Amahara,South Wollo,Woreilu,Worielu HC,Health Center,10.576267,39.436033,siteuid263,17,207
+Amahara,South Wollo,Ambasel,Wuchale HC,Health Center,11.506967,39.606017,siteuid264,14,509
+Amahara,East Gojjam,Shebel Berenta,Yedwuha HC,Health Center,10.440800,38.341900,siteuid265,100,0
+Amahara,East Gojjam,Baso Liben,Yejubie HC,Health Center,10.155067,37.742667,siteuid266,-5,3200
+Amahara,North Shoa,Menz Keya,Zemero health centre,Health Center,10.219017,39.464167,siteuid267,20,7054
+Amahara,North Gondar,East Belesa,Zuy hamusit HC,Health Center,12.523717,38.171183,siteuid268,32,510
+Benishangul Gumuz,Asossa,Asossa,Asossa HC,Health Center,10.057733,34.535267,siteuid269,14,73
+Benishangul Gumuz,Asossa,Asossa,Assosa hoapital,Hospital,10.077167,34.539600,siteuid270,0,580
+Benishangul Gumuz,Asossa,Bambacy,Bambacy HC,Health Center,9.754617,34.722900,siteuid271,33,124
+Benishangul Gumuz,Asossa,Oda Bilidigilu,Bildigilu  HC,Health Center,10.208983,35.098667,siteuid272,36,423
+Benishangul Gumuz,Metekel,Bullen,Bullen HC,Health Center,10.601833,36.076233,siteuid273,4,1005
+Benishangul Gumuz,Metekel,Dibate,Debatie HC,Health Center,10.773317,36.276000,siteuid274,0,107
+Benishangul Gumuz,Pawe Special Zone,Pawi Special Woreda,Felege selam HC,Health Center,11.254100,36.373333,siteuid275,-18,18
+Benishangul Gumuz,Metekel,Mandura,Gilgel beles HC,Health Center,11.153533,36.341167,siteuid276,32,0
+Benishangul Gumuz,Asossa,Homosha,Homosha HC,Health Center,10.323000,34.636217,siteuid277,-42,692
+Benishangul Gumuz,kamshi,Kamashi,Kamashi HC,Health Center,9.493233,35.868350,siteuid278,-34,528
+Benishangul Gumuz,Metekel,Dangur,Manbuck HC,Health Center,11.316167,36.237917,siteuid279,0,0
+Benishangul Gumuz,Asossa,Menge,Menge HC,Health Center,10.351950,34.757667,siteuid280,-1,465
+Benishangul Gumuz,Pawe Special Zone,Pawi Special Woreda,Pawe hospital,Hospital,11.323183,36.403200,siteuid281,-6,3635
+Benishangul Gumuz,kamshi,Belo Jiganifo,Soge HC,Health Center,9.355500,36.186633,siteuid282,22,89
+Benishangul Gumuz,Maokoma Special Zone,Maokoma Special woreda,Tongo HC,Health Center,9.371317,34.436000,siteuid283,8,3747
+Benishangul Gumuz,Metekel,Wonbera,Wonbera HC,Health Center,10.619467,35.666667,siteuid284,-42,364
+Dire Dawa,Dire Dawa,Dire Dawa,Bilal hospital,Hospital,9.587933,41.859533,siteuid285,-7,1535
+Dire Dawa,Dire Dawa,Dire Dawa,Biyo awale HC,Health Center,9.520733,42.008200,siteuid286,87,0
+Dire Dawa,Dire Dawa,Dire Dawa,Dil chora hospital,Hospital,9.585683,41.855633,siteuid287,24,740
+Dire Dawa,Dire Dawa,Dire Dawa,Dire dawa HC,Health Center,9.602000,41.859000,siteuid288,45,1400
+Dire Dawa,Dire Dawa,Dire Dawa,Ferensay hospital,Hospital,9.587533,41.853433,siteuid289,74,282
+Dire Dawa,Dire Dawa,Dire Dawa,Legehare HC,Health Center,9.592483,41.871967,siteuid290,9,239
+Dire Dawa,Dire Dawa,Dire Dawa,Melkajebdu HC,Health Center,9.620067,41.773517,siteuid291,-57,1473
+Dire Dawa,Dire Dawa,Dire Dawa,Sabian HC,Health Center,9.606733,41.835583,siteuid292,14,550
+Dire Dawa,Dire Dawa,Dire Dawa,Wahil HC,Health Center,9.491367,41.739167,siteuid293,0,0
+Gambella,Agnuwak,Abobo,Abobo HC (catholic project),Health Center,7.891083,34.525967,siteuid294,9,659
+Gambella,Bonga,Bonga,Bonga HC,Health Center,8.188833,34.853000,siteuid295,5,1928
+Gambella,Agnuwak,Dima,Dima HC,Health Center,6.501717,35.185067,siteuid296,-14,2028
+Gambella,Gambella,Gambela,Gambela HC,Health Center,8.255000,34.589767,siteuid297,11,2383
+Gambella,Gambela,Gambela,Gambela regional hospital,Hospital,8.238950,34.575467,siteuid298,7,1072
+Gambella,Agnuwak,Itan'g Speical,Itang HC,Health Center,8.190650,34.281000,siteuid299,16,2586
+Gambella,Newer,Lare,Kuergeng HC,Health Center,8.326650,33.942850,siteuid300,48,4056
+Gambella,Mezenger,Gondere,Meti HC,Health Center,7.223700,35.319383,siteuid301,24,1985
+Gambella,Agnuwak,Gog,Pinuyudo HC,Health Center,7.642533,34.255017,siteuid302,31,1426
+Gambella,Agnuwak,Gog,Pinyudo refugee HC,Health Center,7.641967,34.255883,siteuid303,39,1314
+Harari,Harar,Dire Teyara,Aratgna HC,Health Center,9.303883,42.103183,siteuid304,0,0
+Harari,Harar,Erer,Erer HC,Health Center,9.340400,42.206467,siteuid305,44,260
+Harari,Harar,jinela,Federal harar police hospital,Hospital,9.304317,42.123533,siteuid306,0,12400
+Harari,Harar,Jinela,Hassene HC,Health Center,9.353783,42.104633,siteuid307,0,0
+Harari,Harar,Amirnur,Hiwot fana hospital,Hospital,9.303117,42.124267,siteuid308,58,459
+Harari,Harar,Abukar,Jegol hospital,Hospital,9.306633,42.136417,siteuid309,-17,6550
+Harari,Harar,Jinela,Jinela HC,Health Center,9.303867,42.126133,siteuid310,0,0
+Harari,Harar,Hakim,South east army hospital,Hospital,9.323167,42.121500,siteuid311,-4,856
+Harari,Harar,,Yimas small general hospital,Hospital,9.303600,42.121983,siteuid312,41,684
+Oromiya,Jimma,Omo- Nada,Abendabo HC,Health Center,7.757433,37.226383,siteuid313,0,0
+Oromiya,Arsi,Merti,Abomsa HC,Health Center,8.487667,39.826550,siteuid314,-3,2484
+Oromiya,West Arsi,Adaba,Adaba HC,Health Center,7.006000,39.392783,siteuid315,0,0
+Oromiya,Adama City Special Zone,Adama Town,Adama HC,Health Center,8.541317,39.272667,siteuid316,0,423
+Oromiya,Arsi,Jeju,Addis hiwot HC,Health Center,8.520300,39.587017,siteuid317,16,5551
+Oromiya,Arsi,Amigna,Adele HC,Health Center,7.789917,39.891783,siteuid318,-54,20117
+Oromiya,Adama City Special Zone,Adama Town,Adma hospital,Hospital,8.542583,39.272283,siteuid319,23,212
+Oromiya,Guji,Adola,Adola woyu HC,Health Center,5.873967,38.987450,siteuid320,-41,870
+Oromiya,East Shewa,Liben Ziguala,Adulala HC,Health Center,8.537333,38.903500,siteuid321,0,127
+Oromiya,Jimma,Agaro,Agaro HC,Health Center,7.855000,36.585633,siteuid322,-5,3399
+Oromiya,West wollega,Aira Guliso,Aira guliso HC,Health Center,9.156433,35.471083,siteuid323,-23,1369
+Oromiya,West wollega,Aira,Aira hospital,Hospital,9.103050,35.392550,siteuid324,-38,115
+Oromiya,West Arsi,Shala,Aje HC,Health Center,7.290100,38.358283,siteuid325,-5,188
+Oromiya,Jimma,Tiro- Afeta,Ako HC,Health Center,8.024683,37.202267,siteuid326,-7,1759
+Oromiya,ILLu-Ababor,Alge Sachi,Algie HC,Health Center,8.613333,35.735683,siteuid327,32,6191
+Oromiya,North shoa,Degem,Ambesso HC,Health Center,9.807667,38.638517,siteuid328,5,668
+Oromiya,West Shoa,Ambo,Ambo HC,Health Center,8.975717,37.837400,siteuid329,40,1966
+Oromiya,West Shoa,Ambo,Ambo hospital,Hospital,8.976500,37.843117,siteuid330,64,0
+Oromiya,Bale,Harena Buluk,Angetu HC,Health Center,6.405067,39.589000,siteuid331,71,324
+Oromiya,Borena,Arero,Arero HC,Health Center,4.739250,38.807733,siteuid332,-3,9117
+Oromiya,Arsi,Robe,Ari robe HC,Health Center,7.869783,39.622583,siteuid333,15,1327
+Oromiya,East Wollega,Jima Arjo,Arjo HC,Health Center,8.751800,36.491667,siteuid334,29,728
+Oromiya,West Arsi,Arsi negele,Arsi negelle HC,Health Center,7.343133,38.675717,siteuid335,17,3219
+Oromiya,West Hararge,Mieso,Asebot HC,Health Center,9.170050,40.658950,siteuid336,18,49
+Oromiya,Arsi,Aseko,Aseko HC,Health Center,8.502733,40.021950,siteuid337,0,0
+Oromiya,Arsi,Assela Twon,Assela HC,Health Center,7.855500,39.121767,siteuid338,12,515
+Oromiya,Arsi,Assela Town,Assela hospital,Hospital,7.973000,39.126567,siteuid339,-1,1098
+Oromiya,Jimma,Limu Seka,Atnago HC,Health Center,8.303217,36.941750,siteuid340,-6,358
+Oromiya,East Hararge,Babile,Babile HC,Health Center,9.221750,42.336700,siteuid341,18,296
+Oromiya,West Shoa,Bako,Bako HC,Health Center,9.119467,37.080000,siteuid342,0,0
+Oromiya,Bale,Dawe  Serer,Bared HC,Health Center,6.107783,41.673250,siteuid343,0,200
+Oromiya,East Shewa,Ziway Town,Batu HC,Health Center,7.936283,38.732333,siteuid344,57,218
+Oromiya,ILLu-Ababor,Bedele,Bedele HC,Health Center,8.452433,36.354533,siteuid345,41,1510
+Oromiya,East Hararge,Bedeno,Bedeno HC,Health Center,9.108817,41.640733,siteuid346,-32,1290
+Oromiya,West Hararge,Bedena,Bedessa HC,Health Center,8.904117,40.768717,siteuid347,0,60
+Oromiya,West wollega,Begi,Begi HC,Health Center,9.339417,34.523317,siteuid348,40,565
+Oromiya,Arsi,Bekoji,Bekoji HC,Health Center,7.536467,39.254767,siteuid349,0,19
+Oromiya,West wollega,Bojo Dermaji,Bila HC,Health Center,9.383167,35.592967,siteuid350,24,994
+Oromiya,East Wollega,Bilo Boshue,Bilo HC,Health Center,8.893300,36.992767,siteuid351,-1,331
+Oromiya,East Shewa,Bishoftu Town,Bishoftu HC,Health Center,8.742067,38.952300,siteuid352,0,0
+Oromiya,East Shewa,Bishoftu Town,Bishoftu hospital,Hospital,8.752500,38.976100,siteuid353,12,1504
+Oromiya,East Hararge,Babile,Bisidimo hospital,Hospital,9.206167,42.218717,siteuid354,23,702
+Oromiya,East  Shewa,Bora,Bofe HC,Health Center,8.289683,38.940550,siteuid355,-1,10
+Oromiya,West Hararge,Boke,Boke HC,Health Center,8.725733,40.640067,siteuid356,13,2500
+Oromiya,Guji,Bore,Bore HC,Health Center,6.357550,38.608400,siteuid357,2,9
+Oromiya,East  Shewa,Adometulu Judo Kombolcha,Bulbula HC,Health Center,7.721250,38.638667,siteuid358,-26,1043
+Oromiya,Borena,Bule Hora,Bule hora HC,Health Center,5.641350,38.235467,siteuid359,16,5230
+Oromiya,Borena,Bule Hora,Bule hora hosptal,Hospital,5.620583,38.238733,siteuid360,13,3582
+Oromiya,ILLu-Ababor,Bure,Bure HC,Health Center,8.276217,35.091567,siteuid361,24,3957
+Oromiya,East Hararge,Goloo Oda,Burka HC,Health Center,8.819083,41.557983,siteuid362,4,40
+Oromiya,South West Shewa,Dawo,Bussa HC,Health Center,8.773233,38.138717,siteuid363,-5,2416
+Oromiya,Arsi,Gololcha,Chancho HC,Health Center,8.254217,40.124383,siteuid364,4,1323
+Oromiya,North shoa,Sululta,Chancho HC,Health Center,9.303783,38.757167,siteuid365,38,1589
+Oromiya,East Shewa,Gimbicha,Chefe donsa HC,Health Center,8.972833,39.109150,siteuid366,-6,225
+Oromiya,ILLu-Ababor,Chewaka,Chewaka HC,Health Center,8.907850,36.152700,siteuid367,40,2500
+Oromiya,East Hararge,Chinaksen,Chinaksen HC,Health Center,9.511500,42.618650,siteuid368,20,5250
+Oromiya,West Hararge,Chiro,Chiro hospital,Hospital,9.068717,40.858833,siteuid369,25,1617
+Oromiya,South West Shewa,Wonchi,Chitu HC,Health Center,8.603450,37.919150,siteuid370,27,1158
+Oromiya,Arsi,Cholea,Cholea HC,Health Center,8.142583,39.908500,siteuid371,12,517
+Oromiya,ILLu-Ababor,Chora,Chora HC,Health Center,8.356350,36.120933,siteuid372,24,8411
+Oromiya,Kellem Wollega,Dambi Dolo Town,Dambi dolo HC,Health Center,8.524783,34.806667,siteuid373,9,540
+Oromiya,Kellem Wollega,Dalo  Town   (Sayo),Dambi dolo hospital,Hospital,8.519767,34.804783,siteuid374,5,1468
+Oromiya,ILLu-Ababor,Didessa,Dambi HC,Health Center,8.071483,36.457167,siteuid375,2,835
+Oromiya,ILLu-Ababor,Darimu,Darimu HC,Health Center,8.585233,35.493317,siteuid376,-17,1652
+Oromiya,North shoa,Debrelibanos,Debretsige HC,Health Center,9.626117,38.835150,siteuid377,39,340
+Oromiya,East Hararge,Deder,Deder hospital,Hospital,9.324283,41.441117,siteuid378,41,7284
+Oromiya,ILLu-Ababor,Dega,Dega HC,Health Center,8.596833,36.109367,siteuid379,49,120
+Oromiya,Arsi,,Dello sabro HC,Health Center,7.255967,40.459067,siteuid380,28,5980
+Oromiya,Bale,Delomana,Delomana HC,Health Center,6.421400,39.853683,siteuid381,4,2095
+Oromiya,Arsi,Dodota,Dera HC,Health Center,8.325133,39.331667,siteuid382,-18,4100
+Oromiya,Arsi,Diksis,Diksis HC,Health Center,8.056600,39.553783,siteuid383,34,1006
+Oromiya,South West Shewa,Woliso,Dilala HC,Health Center,8.637967,38.043117,siteuid384,0,0
+Oromiya,East Shewa,Adea,Dire HC,Health Center,8.689250,38.890583,siteuid385,-34,2988
+Oromiya,West Hararge,Doba,Doba HC,Health Center,9.285767,41.091017,siteuid386,-26,1471
+Oromiya,West Arsi,Dodla Town,Dodola HC,Health Center,6.974333,39.186683,siteuid387,0,0
+Oromiya,East Shewa,Dukam Town,Dukem HC,Health Center,8.790967,38.891683,siteuid388,8,15
+Oromiya,West Shoa,Ejere,Ejere HC,Health Center,9.207433,38.386767,siteuid389,12,1700
+Oromiya,North shoa,Edebu Abote,Ejere HC,Health Center,9.902033,38.519483,siteuid390,0,5072
+Oromiya,Arsi,Enkelo Wabe,Enkelo wabe HC,Health Center,7.412500,39.390050,siteuid391,-6,114
+Oromiya,East Hararge,Fedis,Fechatu HC,Health Center,9.008517,42.124200,siteuid392,88,0
+Oromiya,North shoa,Grargarso,Fiche HC,Health Center,9.786250,38.745000,siteuid393,51,0
+Oromiya,North shoa,Grargarso,Fiche hospital,Hospital,9.774800,38.725317,siteuid394,0,100
+Oromiya,Horo guduru Wollega,Abay Chomen,Fincha HC,Health Center,9.571933,37.359367,siteuid395,-3,792
+Oromiya,North shoa,Yaya Ture,Fital HC,Health Center,9.621817,38.639350,siteuid396,0,0
+Oromiya,Jimma,Setema,Gaitera HC,Health Center,7.976000,36.207417,siteuid397,0,561
+Oromiya,East Wollega,Limu,Galila HC,Health Center,9.840083,36.469400,siteuid398,-95,250
+Oromiya,East Wollega,Sasiga,Galo HC,Health Center,9.170317,36.469500,siteuid399,39,599
+Oromiya,West Arsi,Kore,Gambo rural hospital,Hospital,7.303433,38.809000,siteuid400,0,0
+Oromiya,Bale,Ginir,Gasara HC,Health Center,7.370600,40.192367,siteuid401,13,832
+Oromiya,ILLu-Ababor,Gechi,Gechi HC,Health Center,8.323500,36.423700,siteuid402,0,0
+Oromiya,West Hararge,Habro,Gelemso hospital,Hospital,8.808450,40.518950,siteuid403,-8,3444
+Oromiya,Jimma,Gera,Gera HC,Health Center,7.740150,36.255533,siteuid404,40,46
+Oromiya,North shoa,Kuyyu,Geraguracha HC,Health Center,9.810667,38.419900,siteuid405,13,164
+Oromiya,East Wollega,Kiramu,Gida ayena HC,Health Center,9.874700,36.619983,siteuid406,52,393
+Oromiya,Kellem Wollega,Gidami,Gidami HC,Health Center,8.974800,34.606183,siteuid407,5,245
+Oromiya,West wollega,Gimbi Town,Gimbi adventist hospital,Hospital,9.176017,35.826033,siteuid408,-18,86
+Oromiya,West wollega,Gimbi Town,Gimbi HC,Health Center,9.171917,35.845833,siteuid409,16,4762
+Oromiya,West Shoa,Dendi,Ginchi HC,Health Center,9.024733,38.137467,siteuid410,-1,232
+Oromiya,West Shoa,Gindeberet,Gindeberet hospital,Hospital,9.612500,37.842483,siteuid411,15,1959
+Oromiya,South West Shewa,Amaya,Gindo HC,Health Center,8.589217,37.753583,siteuid412,25,3028
+Oromiya,Bale,Ginir,Ginir hospital,Hospital,7.125250,40.709750,siteuid413,24,1215
+Oromiya,East Hararge,Girawa,Girawa HC,Health Center,9.137900,41.825433,siteuid414,-1,288
+Oromiya,Bale,Goba,Goba hospital,Hospital,7.021667,39.973917,siteuid415,7,1437
+Oromiya,Arsi,Shirka,Gobesa HC,Health Center,7.618550,39.486150,siteuid416,2,748
+Oromiya,North shoa,Worajarso,Gohatsion HC,Health Center,10.002750,38.241000,siteuid417,-13,232
+Oromiya,West Shoa,Jeldu,Gojo HC,Health Center,9.256700,38.075750,siteuid418,3,368
+Oromiya,ILLu-Ababor,Algie Sachi,Gore HC,Health Center,8.153250,35.536083,siteuid419,37,435
+Oromiya,Bale,Goro,Goro HC,Health Center,6.991250,40.471533,siteuid420,14,130
+Oromiya,Kellem Wollega,Gawo Kebe,Gudetu kebe HC,Health Center,8.985500,34.977667,siteuid421,25,2574
+Oromiya,East Wollega,Gideya Bilaa,Gudeya bila HC,Health Center,9.275533,37.022717,siteuid422,-15,704
+Oromiya,North shoa,Derra,Gundomeskel HC,Health Center,10.221333,38.703067,siteuid423,18,13595
+Oromiya,East Hararge,Gursum,Gursum HC,Health Center,9.366000,42.393217,siteuid424,14,858
+Oromiya,South West Shewa,Sadan Sodo,Habru chullule HC,Health Center,8.469033,38.263667,siteuid425,10,1305
+Oromiya,Guji,Adola Wayu,Harakalo HC,Health Center,5.561833,39.388217,siteuid426,-40,2994
+Oromiya,East Hararge,Haramaya,Haramaya HC,Health Center,9.386133,42.019333,siteuid427,-8,16932
+Oromiya,Horo guduru Wollega,Jimma Genate,Harato HC,Health Center,9.371667,37.118667,siteuid428,37,97
+Oromiya,East Hararge,Jaja,Harawacha HC,Health Center,9.175300,41.335967,siteuid429,12,2154
+Oromiya,Kellem Wollega,Dale  Sadi,Haro sabu HC,Health Center,8.908750,35.221433,siteuid430,19,102
+Oromiya,Bale,Harodumal,Harodumal HC,Health Center,6.762000,40.171417,siteuid431,13,799
+Oromiya,West wollega,Haru,Haru HC,Health Center,8.991417,35.822633,siteuid432,11,960
+Oromiya,West Arsi,Gadaba  Hasasa,Hasasa HC,Health Center,7.106567,39.203667,siteuid433,7,1422
+Oromiya,West Hararge,Tulo,Hirna HC,Health Center,9.222717,41.141617,siteuid434,-57,92
+Oromiya,West Shoa,Wolmera,Holeta HC,Health Center,9.056617,38.492800,siteuid435,2,1080
+Oromiya,West wollega,Homa,Homa HC,Health Center,9.072267,35.692850,siteuid436,10,216
+Oromiya,ILLu-Ababor,Huka,Huka HC,Health Center,8.171683,35.351850,siteuid437,8,2296
+Oromiya,ILLu-Ababor,Hurumu,Hurumu HC,Health Center,8.345000,35.689433,siteuid438,54,14
+Oromiya,Arsi,Lode  Hetosa,Huruta HC,Health Center,8.140717,39.341900,siteuid439,54,110
+Oromiya,West Shoa,Adaberga,Ijajji HC,Health Center,8.990133,37.324600,siteuid440,-22,134
+Oromiya,West Shoa,Ilu-Gelan,Inchini HC,Health Center,9.308567,38.372617,siteuid441,33,205
+Oromiya,Arsi,Hetesa,Itaya HC,Health Center,8.125967,39.237500,siteuid442,61,550
+Oromiya,East Hararge,melkabelo,Jaja HC,Health Center,9.074117,41.359817,siteuid443,0,0
+Oromiya,Bale,Gogolcha,Jara HC,Health Center,7.369833,40.511833,siteuid444,43,675
+Oromiya,East Hararge,Jarso,Jarso HC,Health Center,9.487217,42.225933,siteuid445,96,0
+Oromiya,West wollega,Jarso,Jarso HC,Health Center,9.441933,35.319017,siteuid446,32,717
+Oromiya,Horo guduru Wollega,Jerdega Jarte,Jarte HC,Health Center,9.875617,37.077333,siteuid447,0,0
+Oromiya,Jimma,Jimma Town,Jimma HC,Health Center,7.672633,36.824467,siteuid448,27,3944
+Oromiya,Jimma Town,Jima Higher K  4,Jimma higher 2 HC,Health Center,7.673333,36.826650,siteuid449,-11,1186
+Oromiya,Jimma,Jimma Town,Jimma university specilaized hospital,Hospital,7.676550,36.853350,siteuid450,-26,1964
+Oromiya,Jimma,Gumay,Joba HC,Health Center,8.011667,36.489767,siteuid451,100,0
+Oromiya,East Hararge,Goro Gutu,Karamelee HC,Health Center,9.371350,41.358400,siteuid452,15,597
+Oromiya,West Hararge,Guba Qoricha,Kemona HC,Health Center,8.939950,40.554817,siteuid453,-28,54
+Oromiya,Guji,Kercha,Kercha HC,Health Center,5.791667,38.409717,siteuid454,-2,2367
+Oromiya,Arsi,Munesa,Kersa HC,Health Center,7.538483,38.975900,siteuid455,52,140
+Oromiya,Kellem Wollega,Dale Wabera,Keto HC,Health Center,8.855917,35.069300,siteuid456,86,0
+Oromiya,East Wollega,Gida Ayena,Kirmu HC,Health Center,9.953833,36.852850,siteuid457,0,0
+Oromiya,West Arsi,Kofele,Kofele HC,Health Center,7.070200,39.774667,siteuid458,68,29
+Oromiya,West Arsi,Kokosa,Kokosa HC,Health Center,6.735967,38.798500,siteuid459,-44,3065
+Oromiya,East Hararge,Kombolcha,Kombolcha HC,Health Center,9.438400,42.119417,siteuid460,-20,2360
+Oromiya,Horo guduru Wollega,Guduru,Kombolcha HC,Health Center,9.509500,37.470583,siteuid461,0,0
+Oromiya,West Arsi,Jema Sardo,Kore HC,Health Center,7.209933,38.921950,siteuid462,-47,500
+Oromiya,Arsi,Sudee,Kulla HC,Health Center,7.974950,39.695000,siteuid463,0,0
+Oromiya,West Hararge,Gemechis,Kuni HC,Health Center,9.005617,40.886917,siteuid464,0,120
+Oromiya,East Hararge,Kurfachele,Kurfachele HC,Health Center,9.236583,41.823517,siteuid465,5,698
+Oromiya,South West Shewa,Tolle,Kussaye HC,Health Center,8.709683,38.435067,siteuid466,-48,600
+Oromiya,Kellem Wollega,Lalo Qilee,Lalo HC,Health Center,8.907683,35.352750,siteuid467,0,878
+Oromiya,South West Shewa,Kersa marima,Lemen HC,Health Center,8.605383,38.605317,siteuid468,10,816
+Oromiya,Jimma,Limu Kossa,Limu genet HC,Health Center,8.090417,36.940800,siteuid469,-36,270
+Oromiya,Jimma,Limu Kossa,Limu genet hospital,Hospital,8.090267,36.942550,siteuid470,-3,3304
+Oromiya,West wollega,Mana Sibu Health center,Manasibu HC,Health Center,9.791667,35.106600,siteuid471,25,270
+Oromiya,East Shewa,Adema Town,Medhanielm private hospital,Hospital,8.552783,39.270467,siteuid472,4,1582
+Oromiya,Borena,Dire,Mega HC,Health Center,4.057150,38.309817,siteuid473,11,177
+Oromiya,East  Shewa,Dugda,Meki HC,Health Center,8.140733,38.803917,siteuid474,11,558
+Oromiya,Bale,Sewena,Melka mecha HC,Health Center,7.457167,40.975533,siteuid475,17,884
+Oromiya,West Shoa,Wolmera,Menagesha HC,Health Center,9.052683,38.559700,siteuid476,-49,10054
+Oromiya,North shoa,Abichu Gnea,Mendida HC,Health Center,9.652717,39.318367,siteuid477,46,1533
+Oromiya,West Hararge,Mesela,Mesela HC,Health Center,9.075667,41.168983,siteuid478,-21,310
+Oromiya,East Hararge,Meta,Meta HC,Health Center,9.387850,41.557367,siteuid479,6,2565
+Oromiya,ILLu-Ababor,Metu,Metu HC,Health Center,8.305367,35.573717,siteuid480,25,1617
+Oromiya,ILLu-Ababor,Metu,Metu karl hospital,Hospital,8.291433,35.573900,siteuid481,-23,3197
+Oromiya,West Hararge,Daro Lebu,Micheta HC,Health Center,8.559250,40.322100,siteuid482,39,507
+Oromiya,West Shoa,Midakegn,Midakegn HC,Health Center,9.140000,37.519000,siteuid483,-61,1690
+Oromiya,East  Shewa,Lome,Mojo HC,Health Center,8.589200,39.122117,siteuid484,-1,739
+Oromiya,Borena,Moyale,Moyale HC,Health Center,3.539983,39.040767,siteuid485,23,2589
+Oromiya,West Shoa,Adaberga,Mugher enterprise HC,Health Center,9.479000,38.339017,siteuid486,50,143
+Oromiya,Kellem Wollega,Anflo,Mugi HC,Health Center,8.557333,34.589133,siteuid487,54,1185
+Oromiya,North shoa,Wuchale,Muketuri HC,Health Center,9.552250,38.871650,siteuid488,30,1094
+Oromiya,Guji,Gorodola,Negele borena hospital,Hospital,5.325533,39.571617,siteuid489,69,231
+Oromiya,West wollega,Nejo Town,Nejo HC,Health Center,9.502000,35.506117,siteuid490,5,230
+Oromiya,West wollega,Nejo Town,Nejo hospital,Hospital,9.489283,35.508500,siteuid491,-2,264
+Oromiya,East Wollega,Nekemet Twon,Nekemte HC,Health Center,9.086150,36.536017,siteuid492,23,405
+Oromiya,East Wollega,Nekemet Twon,Nekemte hospital,Hospital,9.076117,36.565167,siteuid493,3,5062
+Oromiya,West wollega,Nole Kaba worda,Nole kaba HC,Health Center,8.838500,35.792000,siteuid494,45,889
+Oromiya,ILLu-Ababor,Nopha,Nopha HC,Health Center,8.407867,35.623333,siteuid495,19,1308
+Oromiya,Kellem Wollega,Jemma Horo,Nunu HC,Health Center,8.954350,34.738650,siteuid496,37,347
+Oromiya,East Wollega,Nunu Kumba,Nunu kumba HC,Health Center,8.759283,36.637450,siteuid497,60,336
+Oromiya,Guji,Odoshakiso,Odoshakiso HC,Health Center,5.770967,38.906700,siteuid498,17,660
+Oromiya,Bale,Robe Town,Robe HC,Health Center,7.103517,40.008667,siteuid499,0,4346
+Oromiya,Kellem Wollega,Hawa Galan,Robi gebiya HC,Health Center,8.686467,34.869100,siteuid500,16,959
+Oromiya,West Shoa,Dano,Sayo HC,Health Center,8.768633,37.254883,siteuid501,11,1194
+Oromiya,Guji,Sebeta,Sebeta HC,Health Center,8.905667,38.621817,siteuid502,0,142
+Oromiya,Jimma,Sokoru,Sekuro HC,Health Center,7.923167,37.422883,siteuid503,9,1137
+Oromiya,North shoa,Kerek,Sendafa HC,Health Center,9.153717,39.024833,siteuid504,9,2466
+Oromiya,Arsi,Degelu (Tijo),Sequre HC,Health Center,7.753783,39.154283,siteuid505,76,90
+Oromiya,Jimma,Kersa,Serbo HC,Health Center,7.708900,36.993500,siteuid506,4,3540
+Oromiya,Arsi,Seru,Seru HC,Health Center,7.674883,40.188733,siteuid507,31,284
+Oromiya,Horo guduru Wollega,Shambu,Shambu hospital,Hospital,9.572300,37.106283,siteuid508,66,163
+Oromiya,West Arsi,Shashemene,Shashemen HC,Health Center,7.190167,38.589283,siteuid509,32,77
+Oromiya,West Arsi,Shashemene,Shashemene general hospital,Hospital,7.254133,38.653433,siteuid510,5,1003
+Oromiya,Jimma,Shebe,Shebe HC,Health Center,7.503233,36.506350,siteuid511,39,263
+Oromiya,Jimma,Dedo,Sheki HC,Health Center,7.503667,36.897833,siteuid512,31,312
+Oromiya,West Shoa,Jibat,Shenen HC,Health Center,8.722317,37.476583,siteuid513,9,6792
+Oromiya,North shoa,Kembibit,Sheno HC,Health Center,9.319900,39.274933,siteuid514,28,802
+Oromiya,West Shoa,Meta Robi,Shino HC,Health Center,9.308283,38.274167,siteuid515,7,6164
+Oromiya,Jimma,Sigmo,Sigmo HC,Health Center,7.902917,36.092667,siteuid516,20,112
+Oromiya,Arsi,Sire,Sire HC,Health Center,8.272850,39.492183,siteuid517,7,1838
+Oromiya,East Wollega,Sibu Sire,Sire HC,Health Center,9.025217,36.868333,siteuid518,72,0
+Oromiya,North shoa,Jida,Sirxi HC,Health Center,9.353617,39.001667,siteuid519,8,613
+Oromiya,East Hararge,Deder,Soka HC,Health Center,9.169067,41.439967,siteuid520,77,144
+Oromiya,Guji,Uraga,Sollamo HC,Health Center,6.074267,38.592283,siteuid521,6,6608
+Oromiya,South West Shewa,Woliso,St lukas catholic hospital college of nu,Hospital,8.540700,37.973200,siteuid522,15,490
+Oromiya,Bale,Rayitu,Tedecha bela HC,Health Center,6.890600,41.125367,siteuid523,-42,77
+Oromiya,South West Shewa,Ilu,Teji HC,Health Center,8.848333,38.371683,siteuid524,38,315
+Oromiya,Borena,Talitele,Teltele HC,Health Center,5.059733,37.387483,siteuid525,0,20
+Oromiya,Arsi,Tena,Ticho HC,Health Center,7.811000,39.519533,siteuid526,3,272
+Oromiya,Borena,Tore,Tore HC,Health Center,5.941167,38.154117,siteuid527,-17,144
+Oromiya,South West Shewa,Bacho,Tulu bolo HC,Health Center,8.655150,38.206050,siteuid528,-48,1430
+Oromiya,Horo Gudru Wellega,Abe Dongoro,Tulu wayu HC,Health Center,9.605683,36.926633,siteuid529,0,66
+Oromiya,East Wollega,Guto Gida  woreda,Uke HC,Health Center,9.370300,36.520350,siteuid530,15,662
+Oromiya,Guji,Wadera,Wadera HC,Health Center,5.789833,39.315167,siteuid531,11,550
+Oromiya,East Shewa,Boset,Walanchiti HC,Health Center,8.654433,39.425417,siteuid532,45,4000
+Oromiya,West Arsi,Nensabo,Warka HC,Health Center,6.588500,39.116617,siteuid533,16,1339
+Oromiya,East Hararge,Qersa,Water HC,Health Center,9.357333,41.769500,siteuid534,0,0
+Oromiya,Horo guduru Wollega,Jimma Raree,Wayu HC,Health Center,9.248333,37.355867,siteuid535,6,782
+Oromiya,South West Shewa,Woliso,Woliso HC,Health Center,8.536867,37.969500,siteuid536,4,53
+Oromiya,Borena,Yabello,Yabello HC,Health Center,4.890683,38.088350,siteuid537,14,730
+Oromiya,Jimma,Mana,Yebu HC,Health Center,7.772333,36.722633,siteuid538,53,672
+Oromiya,ILLu-Ababor,YoYo,Yoyo HC,Health Center,8.338983,35.809833,siteuid539,17,1260
+Oromiya,Arsi,Ziway Dugda,Ziway dugda HC,Health Center,8.035750,39.007283,siteuid540,11,2385
+SNNP,Hadiya,Analemo,Achamo up-grading HC,Health Center,7.670833,38.035167,siteuid541,39,228
+SNNP,Gedio,Bulle,Adado HC,Health Center,6.306950,38.369883,siteuid542,5,84
+SNNP,Kaffa,Gesha,Addis berhan HC,Health Center,7.541917,35.606483,siteuid543,0,64
+SNNP,Kaffa,Adio,Ade akaka HC,Health Center,7.286817,36.559867,siteuid544,-43,634
+SNNP,Wolayta,Damot Pulasa,Adea shanto HC,Health Center,7.030667,37.855283,siteuid545,0,0
+SNNP,Kembata,Kedida Gamela,Adilo HC,Health Center,7.205367,37.975800,siteuid546,-10,1678
+SNNP,Gurage,Ezha,Agena HC,Health Center,8.135867,38.004550,siteuid547,32,760
+SNNP,Alaba,Alaba Special Woreda,Alaba special woreda HC,Health Center,7.309933,38.095500,siteuid548,100,0
+SNNP,Sidama,Aleta Wondo,Alata wondo HC,Health Center,6.606333,38.408733,siteuid549,1,2600
+SNNP,Siltie,Senkura,Alemgebeya HC,Health Center,7.570050,38.170750,siteuid550,0,0
+SNNP,Konta,Konta Special Woreda,Ameya HC,Health Center,7.103983,36.659083,siteuid551,-8,466
+SNNP,Kembata,Angacha wereda,Angacha HC,Health Center,7.339167,37.855083,siteuid552,36,202
+SNNP,Gamo Goffa,Arbaminch Town,Arabaminch HC,Health Center,6.047667,37.557583,siteuid553,9,715
+SNNP,Gamo Goffa,Arbaminch Town,Arabaminch hospital,Hospital,6.023700,37.561167,siteuid554,0,0
+SNNP,Wolayta,Areka Town,Areka HC,Health Center,7.075333,37.702433,siteuid555,41,60
+SNNP,Gurage,Gumer,Arekit HC,Health Center,7.937067,38.058867,siteuid556,9,9608
+SNNP,Sidama,Aroresa,Aroresa HC,Health Center,6.371950,38.953200,siteuid557,13,4171
+SNNP,Alaba,Alaba Special Woreda,Arsho HC,Health Center,7.303433,37.993067,siteuid558,17,671
+SNNP,Sidama,Awassa Town,Asher hospital,Hospital,7.040133,38.473417,siteuid559,0,33
+SNNP,Gurage,Cheha,Atat hospital,Hospital,8.171700,37.787133,siteuid560,3,2490
+SNNP,Sidama,Wondogenet,Babochorora HC,Health Center,7.019450,38.658667,siteuid561,54,0
+SNNP,Bench Maji,Meinit goldia,Bachuma HC,Health Center,6.824000,35.905167,siteuid562,29,4865
+SNNP,Wolayta,Damot Woyida,Badesa HC,Health Center,6.875583,37.925733,siteuid563,-16,796
+SNNP,Wolayta,Kindo koysha,Bale HC,Health Center,6.918933,37.523867,siteuid564,-22,570
+SNNP,Dawor,Issera,Balli HC,Health Center,6.890550,37.022167,siteuid565,0,22
+SNNP,Basheto,Basheto Special Woreda,Basketo/laska HC,Health Center,6.292733,36.625333,siteuid566,-5,166
+SNNP,Sheka,Yeki,Bechi HC,Health Center,7.239283,35.577833,siteuid567,0,408
+SNNP,Hadiya,Lemo,Belessa HC,Health Center,7.593833,37.918933,siteuid568,5,500
+SNNP,Sidama,Bensa,Bensa HC,Health Center,6.521617,38.825383,siteuid569,50,540
+SNNP,Gamo Goffa,Uba DebreTsehay,Beto HC,Health Center,6.054367,36.886833,siteuid570,0,0
+SNNP,Bench Maji,Semen Bench,Bir HC,Health Center,7.076833,35.640950,siteuid571,2,446
+SNNP,Gamo Goffa,Mirab Abaya,Birbir HC,Health Center,6.291800,37.769050,siteuid572,12,2430
+SNNP,Wolayta,Deguna Fanigo,Bitena HC,Health Center,6.959733,38.025850,siteuid573,3,7920
+SNNP,Kaffa,Bitta Genet,Bitta neculoe HC,Health Center,7.271383,35.771117,siteuid574,17,987
+SNNP,Kaffa,Decha,Boba gecha nucleus HC,Health Center,7.090900,36.120633,siteuid575,20,98
+SNNP,Wolayta,Damote Gale,Boditi HC,Health Center,6.942583,37.858500,siteuid576,-62,1134
+SNNP,Sidama,Wensho,Bokasa HC,Health Center,6.752817,38.503550,siteuid577,14,668
+SNNP,Sidama,Bona Zuria,Bona district hospital,Hospital,6.536833,38.706800,siteuid578,39,191
+SNNP,Sidama,Bona Zuria,Bona kewalenka HC,Health Center,6.504300,38.738650,siteuid579,0,0
+SNNP,Wolayta,Bonibe boloso,Bonibe HC,Health Center,7.137133,37.594000,siteuid580,72,194
+SNNP,Hadiya,Shashego,Bonosha HC,Health Center,7.506900,38.089250,siteuid581,-20,500
+SNNP,Gurage,Sodo,Buei HC,Health Center,8.324733,38.552917,siteuid582,20,1657
+SNNP,Gedio,Bule,Bule HC,Health Center,6.291433,38.406150,siteuid583,20,509
+SNNP,Gamo Goffa,Arabaminch Town,Bulki HC,Health Center,6.274383,36.807033,siteuid584,3,2274
+SNNP,Sidama,Bursa,Bursa HC,Health Center,6.590117,38.593317,siteuid585,29,3505
+SNNP,Sidama,Wondogenet,Bussa HC,Health Center,7.009233,38.585650,siteuid586,-4,350
+SNNP,Gurage,Butajira Town,Butajira HC,Health Center,8.109167,38.375417,siteuid587,0,0
+SNNP,Gurage,Butajira Town,Butajira hospital,Hospital,8.123150,38.371317,siteuid588,0,0
+SNNP,Bench Maji,Meinit Goldia,Chebera HC,Health Center,6.765000,35.936450,siteuid589,-39,310
+SNNP,Gedio,Kochore,Chelelekitu HC,Health Center,6.006533,38.153667,siteuid590,8,103
+SNNP,Gamo Goffa,Chencha,Chencha district hospital,Hospital,6.255033,37.570367,siteuid591,92,0
+SNNP,Konta,Konta Special Woreda,Chida HC,Health Center,7.168417,36.789333,siteuid592,4,450
+SNNP,Sidama,Chire,Chire HC,Health Center,6.523200,39.088800,siteuid593,-76,97
+SNNP,Sidama,Chuko,Chuko HC,Health Center,6.575633,38.335167,siteuid594,-23,1461
+SNNP,Kaffa,Gesha,Daka HC,Health Center,7.589583,35.751833,siteuid595,5,2329
+SNNP,Dawor,Issera,Dali  up-grading HC,Health Center,6.990633,36.989100,siteuid596,24,139
+SNNP,Siltie,Dalocha,Dalocha HC,Health Center,7.787650,38.241667,siteuid597,77,0
+SNNP,Hadiya,Mirab Badawecho,Danema HC,Health Center,7.158333,37.842733,siteuid598,11,0
+SNNP,Kembata,Daniboya,Daniboya HC,Health Center,7.360500,37.959167,siteuid599,-8,45
+SNNP,Sidama,Baricha,Darara HC,Health Center,6.842600,38.301667,siteuid600,0,21
+SNNP,Bench Maji,Semen Bench,Debre work HC,Health Center,6.872533,35.519000,siteuid601,-48,27
+SNNP,Gamo Goffa,Mirab Abaya,Delbarana HC,Health Center,6.401800,37.642200,siteuid602,-13,1380
+SNNP,Gedio,Dilla Town,Dilla hospital,Hospital,6.392067,38.307550,siteuid603,0,0
+SNNP,Hadiya,Shashego,Doesha HC,Health Center,7.591067,38.075167,siteuid604,-41,176
+SNNP,Sidama,Awassa Zuriya,Dore bafano HC,Health Center,7.035383,38.355250,siteuid605,13,48
+SNNP,Kembata,Doyo Gena,Doyo gena HC,Health Center,7.341583,37.785450,siteuid606,0,20
+SNNP,Kembata,Kedida Gamela,Durame HC,Health Center,7.241917,37.902950,siteuid607,-9,2590
+SNNP,Kembata,Kedida Gamela,Durame hospital,Hospital,7.254633,37.903583,siteuid608,0,99
+SNNP,Gurage,Cheha,Endibir HC,Health Center,8.125333,37.924167,siteuid609,17,426
+SNNP,Gurage,Enemor Ener,Ener-amanuel HC,Health Center,7.888050,37.725717,siteuid610,-4,114
+SNNP,Gedio,Kochore,Fisiha genat HC,Health Center,6.076250,38.202133,siteuid611,0,0
+SNNP,Yem,Yem,Fofa HC,Health Center,7.865167,37.519417,siteuid612,40,338
+SNNP,Gamo Goffa,Zala,Galma HC,Health Center,6.242033,37.018833,siteuid613,23,105
+SNNP,South Omo,South Ari,Gazer HC,Health Center,5.905233,36.573750,siteuid614,0,0
+SNNP,Kaffa,Bonga,Gebre tsadik shawo hospital,Hospital,7.271533,36.238917,siteuid615,2,1534
+SNNP,Sheka,Andracha,Gecha HC,Health Center,7.556183,35.403150,siteuid616,-9,170
+SNNP,Gedio,Gedeb,Gedeb HC,Health Center,5.907000,38.251983,siteuid617,-13,86
+SNNP,Hadiya,Misha,Geja HC,Health Center,7.793250,37.791600,siteuid618,-13,157
+SNNP,Bench Maji,Debub Bench,Genja HC,Health Center,7.056917,35.702317,siteuid619,-8,309
+SNNP,Gamo Goffa,Geze Gofa,Geresie HC,Health Center,5.905633,37.306900,siteuid620,33,380
+SNNP,Dawor,Loma,Gessa HC,Health Center,7.008367,37.269833,siteuid621,0,0
+SNNP,Wolayta,Ofa,Gesuba HC,Health Center,6.723267,37.558167,siteuid622,-4,350
+SNNP,Gamo Goffa,Arabaminch Town,Gezesso HC,Health Center,6.124550,37.335800,siteuid623,27,1510
+SNNP,Derashe,Derashe Special Woreda,Gidole district hospital,Hospital,5.642633,37.355733,siteuid624,0,828
+SNNP,Hadiya,Soro,Gimbichu HC,Health Center,7.442167,37.619917,siteuid625,95,0
+SNNP,Kaffa,Decha,Goba chara HC,Health Center,6.956850,36.189617,siteuid626,40,693
+SNNP,Gurage,Enemor Ener,Gunchire HC,Health Center,8.045333,37.835667,siteuid627,39,262
+SNNP,Wolayta,Damot Sore,Gunino HC,Health Center,6.924133,37.653067,siteuid628,22,990
+SNNP,Kembata,Hadaro Tunto Zuria,Hadaro HC,Health Center,7.191083,37.671650,siteuid629,-18,125
+SNNP,Gamo Goffa,Kamba,Haneqzula HC,Health Center,6.159350,37.159350,siteuid630,0,0
+SNNP,Gurage,Muhir Na Aklil,Hawariat HC,Health Center,8.236233,38.079333,siteuid631,0,0
+SNNP,Sidama,Awassa Town,Hawassa HC,Health Center,7.062500,38.470317,siteuid632,0,0
+SNNP,Sidama,Awassa Town,Hawassa referal hospital,Hospital,7.023683,38.459767,siteuid633,-45,1087
+SNNP,Gurage,Abeshege,Hole HC,Health Center,8.273017,37.657417,siteuid634,7,48
+SNNP,Hadiya,Gibe,Homacho HC,Health Center,7.688950,37.724817,siteuid635,0,18
+SNNP,Hadiya,Lemo,Hossana HC,Health Center,7.552267,37.853900,siteuid636,0,0
+SNNP,Sidama,Hula,Hula HC,Health Center,6.488533,38.507283,siteuid637,0,0
+SNNP,Siltie,Hulbarg,Hulbareg HC,Health Center,7.748333,38.119700,siteuid638,38,102
+SNNP,Hadiya,Soro,Jajura up-grading HC,Health Center,7.456100,37.688517,siteuid639,19,1172
+SNNP,Gurage,Enemor Ener,Jatu HC,Health Center,8.072233,37.719183,siteuid640,10,149
+SNNP,Bench Maji,Bero,Jeba HC,Health Center,6.263000,35.223100,siteuid641,0,1010
+SNNP,South Omo,Jinka Town,Jinka millenium HC,Health Center,5.789383,36.555633,siteuid642,20,920
+SNNP,South Omo,Jinka Town,Jinka zonal hospital,Hospital,5.775933,36.558083,siteuid643,-16,364
+SNNP,Sidama,Dara,Kabado HC,Health Center,6.474833,38.338717,siteuid644,-19,90
+SNNP,Gamo Goffa,Kamba,Kamba HC,Health Center,6.053317,37.168983,siteuid645,4,90
+SNNP,South Omo,Gnangatom,Kangaten HC,Health Center,5.189133,36.089067,siteuid646,24,500
+SNNP,Konso,Konso Special woreda,Karat higher HC,Health Center,5.338083,37.439300,siteuid647,0,27
+SNNP,Siltie,Alicho Wiriro,Kawakot HC,Health Center,8.007067,38.209567,siteuid648,0,0
+SNNP,Dawor,Tocha,Kechi HC,Health Center,7.041033,36.971700,siteuid649,0,0
+SNNP,Dawor,Gena bossa,Kerawo upgrading HC,Health Center,7.123800,37.285817,siteuid650,95,14
+SNNP,Siltie,Siltie,Kibet HC,Health Center,8.023183,38.325283,siteuid651,0,489
+SNNP,Bench Maji,Surma,Kibish HC,Health Center,6.069500,35.437167,siteuid652,0,135
+SNNP,Siltie,Misirak Azerinet,Kilto HC,Health Center,7.789817,38.018767,siteuid653,0,150
+SNNP,Wolayta,Kindo didaye,Kindo halale HC,Health Center,6.753133,37.340333,siteuid654,39,68
+SNNP,Kaffa,Gewata,Kobech HC,Health Center,7.470733,36.119467,siteuid655,26,288
+SNNP,Kaffa,Gewata,Konda HC,Health Center,7.602967,36.014500,siteuid656,26,424
+SNNP,Hadiya,Soro,Kosha HC,Health Center,7.407417,37.755083,siteuid657,-100,33
+SNNP,Gurage,Mareko,Koshe HC,Health Center,8.008517,38.541500,siteuid658,0,276
+SNNP,South Omo,Male,Koybe HC,Health Center,5.770017,36.791600,siteuid659,0,189
+SNNP,Siltie,Alicho Wiriro,Kutare up-grading HC,Health Center,7.908917,38.125250,siteuid660,15,66
+SNNP,Gamo Goffa,Melekoza,Laha HC,Health Center,6.473333,36.588067,siteuid661,3,398
+SNNP,Gamo Goffa,Arbaminch Zuria,Lante HC,Health Center,6.126533,37.636800,siteuid662,8,568
+SNNP,Sidama,Shabedino,Leku HC,Health Center,6.871367,38.439317,siteuid663,-3,509
+SNNP,Siltie,Mihirab Azerinet Berbere,Lera HC,Health Center,7.741533,37.888150,siteuid664,-1,1412
+SNNP,Hadiya,Lemo,Lisana HC,Health Center,7.518733,37.925283,siteuid665,0,0
+SNNP,Bench Maji,Maji,Maji HC,Health Center,6.171483,35.586683,siteuid666,53,930
+SNNP,Sheka,Masha Town,Masha HC,Health Center,7.741433,35.488633,siteuid667,2,82
+SNNP,Sidama,Dale,Mesenkela HC,Health Center,6.804050,38.375867,siteuid668,0,1083
+SNNP,Siltie,Lanfuro,Mito HC,Health Center,7.673067,38.354317,siteuid669,2,767
+SNNP,Bench Maji,Mizan Aman,Mizan HC,Health Center,6.991633,35.574500,siteuid670,-48,34
+SNNP,Bench Maji,Mizan Aman,Mizan tefer hospital,Hospital,6.965500,35.543217,siteuid671,15,3957
+SNNP,Gurage,Muhir Na Aklil,Mojer HC,Health Center,8.271717,38.052400,siteuid672,32,1929
+SNNP,Kembata,Tembaro,Mudula HC,Health Center,7.296667,37.539467,siteuid673,-2,269
+SNNP,Siltie,Mihirab Azerinet Berbere,Mugo HC,Health Center,7.836717,37.985667,siteuid674,-16,449
+SNNP,Wolayta,Ofa,Mure HC,Health Center,6.762500,37.506483,siteuid675,9,130
+SNNP,Siltie,Dalocha,Nadugne agam HC,Health Center,7.689767,38.223667,siteuid676,32,140
+SNNP,Hadiya,Lemo,Nigist eleni mohamed metasabya hospital,Hospital,7.556000,37.841233,siteuid677,-18,860
+SNNP,Kaffa,Tulo,Oda HC,Health Center,7.131667,36.469917,siteuid678,-24,3929
+SNNP,Hadiya,Gibe,Omochera HC,Health Center,7.787833,37.724033,siteuid679,25,550
+SNNP,South Omo,Dassenech,Omorate HC,Health Center,4.790600,36.042000,siteuid680,70,0
+SNNP,Gurage,Geta,Quante upgrading HC,Health Center,7.972367,37.942683,siteuid681,0,50
+SNNP,Gamo Goffa,Sawla,Sawla HC,Health Center,6.315667,36.889850,siteuid682,50,303
+SNNP,Gamo Goffa,Sawla,Sawla hospital,Hospital,6.315667,36.889850,siteuid683,42,60
+SNNP,Gamo Goffa,Kucha,Selamber HC,Health Center,6.474383,37.453883,siteuid684,39,1648
+SNNP,Sidama,Awassa Zuriya,Shamena gerimama HC,Health Center,7.075100,38.288733,siteuid685,13,154
+SNNP,Bench Maji,Sheko,Sheko HC,Health Center,7.054500,35.508367,siteuid686,50,57
+SNNP,Wolayta,Sodo Zuria,Shela berkoshe HC,Health Center,6.853167,37.825417,siteuid687,1,1950
+SNNP,Gamo Goffa,Arabaminch Zuriya,Shelle HC,Health Center,5.889100,37.426517,siteuid688,-40,2100
+SNNP,Bench Maji,Shey Bench,Shewa bench HC,Health Center,6.956833,35.770600,siteuid689,0,0
+SNNP,Siltie,Alicho Wiriro,Shilmat HC,Health Center,7.968950,38.172250,siteuid690,0,0
+SNNP,Kembata,Kacha Bira,Shinshicho HC,Health Center,7.204583,37.774533,siteuid691,17,182
+SNNP,Kaffa,Chena,Shishinda HC,Health Center,7.252467,35.876017,siteuid692,18,271
+SNNP,Hadiya,Misrak Badawacho,Shone HC,Health Center,7.139183,37.952283,siteuid693,0,2040
+SNNP,Hadiya,Lemo,Shurmo up-grading HC,Health Center,7.642667,37.887033,siteuid694,7,687
+SNNP,Sidama,Dara,Tafari kela HC,Health Center,6.502500,38.389850,siteuid695,27,380
+SNNP,Gurage,Kebena,Tatesa -wesherbe HC,Health Center,8.309617,37.952833,siteuid696,11,621
+SNNP,Sheka,Tapi Town,Teppi HC,Health Center,7.191267,35.422783,siteuid697,0,166
+SNNP,Dawor,Mareka,Tercha distric hospital,Hospital,7.140983,37.180000,siteuid698,28,558
+SNNP,South Omo,South Ari,Tlta HC,Health Center,5.975883,36.524883,siteuid699,67,50
+SNNP,Yem,Yem,Toba nucleus HC,Health Center,7.739700,37.473367,siteuid700,31,1322
+SNNP,Dawor,Tocha,Tocha HC,Health Center,7.088567,37.036833,siteuid701,-33,2016
+SNNP,Wolayta,Sodo Zuria,Tome garera HC,Health Center,6.775050,37.664333,siteuid702,1,182
+SNNP,Siltie,Lanfuro,Tora HC,Health Center,7.857067,38.421517,siteuid703,4,249
+SNNP,Wolayta,Humbo Town,Tsebela HC,Health Center,6.702533,37.772283,siteuid704,-18,124
+SNNP,Sidama,Dale,Tula HC,Health Center,6.953383,38.471350,siteuid705,26,320
+SNNP,Gedio,Dilla Zuria,Tumiticha HC,Health Center,6.335800,38.321217,siteuid706,15,50
+SNNP,Kembata,Hadero Tunto Zuria,Tunto HC,Health Center,7.222183,37.635967,siteuid707,1,65
+SNNP,South Omo,Hamer,Turmi HC,Health Center,4.970667,36.486617,siteuid708,22,99
+SNNP,Kaffa,Gimbo,Uffa HC,Health Center,7.392467,36.219850,siteuid709,2,63
+SNNP,Gamo Goffa,Dara Malo,Wacha HC,Health Center,6.325267,37.303867,siteuid710,29,120
+SNNP,Kaffa,Chena,Wacha HC,Health Center,7.140600,35.792183,siteuid711,-3,86
+SNNP,Dawor,Mareka,Waka HC,Health Center,7.055717,37.174200,siteuid712,-7,5344
+SNNP,Gurage,Abeshege,Walga HC,Health Center,8.322583,37.586967,siteuid713,-23,72
+SNNP,Gedio,Wanago,Wanago HC,Health Center,6.319000,38.252150,siteuid714,8,60
+SNNP,Gurage,Geta,Wedaka upgrading HC,Health Center,7.920567,38.009333,siteuid715,11,45
+SNNP,Gurage,Woleikite Town,Welkite HC,Health Center,8.294500,37.786333,siteuid716,-28,2052
+SNNP,Siltie,werabe City administration,Werabe HC,Health Center,7.852050,38.176083,siteuid717,0,1978
+SNNP,Sidama,Malga,Wetera resa HC,Health Center,6.907767,38.689500,siteuid718,0,45
+SNNP,Wolayta,Sodo Town,Wolayta sodo hospital,Hospital,6.854300,37.773033,siteuid719,0,339
+SNNP,Sidama,Wendogenet,Wondgenet HC,Health Center,7.041383,38.606333,siteuid720,38,32
+SNNP,Sidama,Melga,Wujigira HC,Health Center,6.937250,38.568833,siteuid721,0,0
+SNNP,Kaffa,Sayilem,Yadota HC,Health Center,7.823083,35.822117,siteuid722,37,90
+SNNP,Sidama,Arbegona,Yaya HC,Health Center,6.690667,38.722167,siteuid723,23,204
+SNNP,Dawor,Loma,Yello upgrading HC,Health Center,6.951800,37.339733,siteuid724,0,0
+SNNP,Sheka,Masha,Yena HC,Health Center,7.625300,35.502483,siteuid725,-3,3824
+SNNP,Gurage,Meskan,Yetibo ( mercy) hospital,Hospital,8.120183,38.292117,siteuid726,0,0
+SNNP,Sidama,Baricha,Yirba HC,Health Center,6.923950,38.368900,siteuid727,19,0
+SNNP,Gedio,Yirgachaffe,Yirgachefe HC,Health Center,6.155767,38.205483,siteuid728,34,18
+SNNP,Sidama,Yirgalem Town,Yirgalem HC,Health Center,6.756667,38.408833,siteuid729,13,442
+SNNP,Sidama,Yirgalem Town,Yirgalem hospital,Hospital,6.743117,38.389550,siteuid730,-72,36
+SNNP,Gamo Goffa,Dita,Zada HC,Health Center,6.307517,37.490217,siteuid731,0,0
+SNNP,Gamo Goffa,Boreda,Zefine HC,Health Center,6.472467,37.637150,siteuid732,-4,1890
+Somali,Jijiga,Jijiga,Awbare HC,Health Center,9.774683,43.218467,siteuid733,0,0
+Somali,Degehabor,D/bour,Degerhabour hospital,Hospital,8.221367,43.557767,siteuid734,0,10
+Somali,Gode,Gode,Denan HC,Health Center,6.531667,43.489433,siteuid735,22,498
+Somali,Gode,Gode,Gode hospital,Hospital,5.955567,43.555333,siteuid736,14,90
+Somali,Jijiga,Kabirbeyeh,Hope maternity hospital,Health Center,9.152017,43.361500,siteuid737,17,713
+Somali,Jijiga,Jijiga,Jijiga HC,Health Center,9.335333,42.788400,siteuid738,0,0
+Somali,Jijiga,Jijiga,Karamara hospital,Hospital,9.355617,42.805833,siteuid739,-1,11275
+Somali,Jijiga,kebribeyah,Kebr beya HC,Health Center,9.092550,43.175050,siteuid740,0,0
+Somali,Korehey,Kebridehar,Kebri dahar hospital,Hospital,6.736083,44.272617,siteuid741,39,1353
+Somali,Jijiga,Jijiga,Mellineum hospital,Hospital,9.342950,42.813000,siteuid742,0,0
+Somali,Gode,Gode,Sos  HC,Health Center,5.938667,43.541433,siteuid743,0,3488
+Tigray,Centeral,Abiadi,Abi adi HC,Health Center,13.621867,38.992567,siteuid744,69,300
+Tigray,Centeral,Abiadi,Abi adi hospital,Hospital,13.621867,38.987633,siteuid745,16,340
+Tigray,North western,Laelay Adiyabo,Adi daero HC,Health Center,14.309483,38.176600,siteuid746,0,33
+Tigray,Western,kafta Humora,Adigoshu HC,Health Center,14.157317,37.304650,siteuid747,-19,690
+Tigray,South east,Adigrat,Adigrat HC,Health Center,14.273783,39.458050,siteuid748,-7,165
+Tigray,Estern,Adigrat,Adigrat hospital,Hospital,14.279667,39.459433,siteuid749,-31,328
+Tigray,Southern,Hiintalo wejerat,Adigudom HC,Health Center,13.238233,39.518983,siteuid750,0,0
+Tigray,Southern,Alage,Adishehu health  center,Health Center,12.935767,39.528333,siteuid751,0,6480
+Tigray,Centeral,Adwa,Adwa health canter,Health Center,14.166633,38.895083,siteuid752,52,40
+Tigray,Centeral,Adwa,Adwa hospital,Hospital,14.194950,38.882783,siteuid753,0,0
+Tigray,Eastern,Agulae( Kilte awlaelo),Agulae HC,Health Center,13.689267,39.592000,siteuid754,0,276
+Tigray,Southern,Alamata,Alamata district hospital,Hospital,12.418817,39.552350,siteuid755,0,0
+Tigray,Southern,Alamata,Alamata HC,Health Center,12.425333,39.557550,siteuid756,0,0
+Tigray,Centeral,Axum,Axum HC,Health Center,14.122750,38.713550,siteuid757,30,1265
+Tigray,Estern,Ganta Afeshum,Biezet HC,Health Center,14.282900,39.288683,siteuid758,0,0
+Tigray,Centeral,Mereb Leke,Birshwa HC,Health Center,14.403200,38.787300,siteuid759,0,1688
+Tigray,Southern,Raya Azebo,Chercher HC,Health Center,12.525783,39.774667,siteuid760,0,154
+Tigray,South east,Hentalo Wajerat,Debube HC,Health Center,13.074283,39.637267,siteuid761,25,5385
+Tigray,Western,Wolkait,Dejena HC,Health Center,13.763000,37.327183,siteuid762,-14,10287
+Tigray,Eastern,Erob,Dowhan HC,Health Center,14.508217,39.554767,siteuid763,1,811
+Tigray,Centeral,Werie Lake,Edaga arabi HC,Health Center,14.038883,39.066033,siteuid764,3,943
+Tigray,Eastern,Saese tsadaemba( Ferwayne),Edaga hamus HC,Health Center,14.189033,39.556117,siteuid765,8,886
+Tigray,North  Western,Asgedie ( Tsimbla),Endabaguna HC,Health Center,13.958667,38.187233,siteuid766,-9,840
+Tigray,North  Western,Shirie,Endaslasie HC(omer),Health Center,14.106783,38.285083,siteuid767,6,2050
+Tigray,Centeral,Ahferom,Enticho HC,Health Center,14.280267,39.147067,siteuid768,-5,843
+Tigray,Estern,Gulomekeda,Fatsi HC,Health Center,14.393000,39.375200,siteuid769,0,0
+Tigray,Eastern,Saesetsaeda Emba,Freweyni HC,Health Center,14.042500,39.585600,siteuid770,34,2748
+Tigray,Centeral,Degua Temben,Hagere selam HC,Health Center,13.636383,39.172150,siteuid771,-10,880
+Tigray,Eastern,Atsibi- Wonberta,Haikmesahl  HC,Health Center,13.758667,39.705450,siteuid772,36,578
+Tigray,Eastern,Hawazen,Hawzen HC,Health Center,13.998167,39.425733,siteuid773,23,290
+Tigray,Western,Humera Town,Kahsay abera hospital (humera),Hospital,14.275200,36.608367,siteuid774,0,0
+Tigray,Mekelle,Semene,Kassech HC,Health Center,13.473000,39.456467,siteuid775,50,30
+Tigray,Southern,Korem,Korem HC,Health Center,12.520500,39.509017,siteuid776,-19,2083
+Tigray,Southern,Maychew,Lemlem karl hospital,Hospital,12.775050,39.539333,siteuid777,37,444
+Tigray,Southern,Maychew,Maichew HC,Health Center,12.796667,39.536467,siteuid778,-30,722
+Tigray,Western,Tsegedie,Meareg hospital,Hospital,13.643950,36.858650,siteuid779,50,170
+Tigray,Centeral,Laelay Machew,Medebay welel HC,Health Center,14.195067,38.703000,siteuid780,39,5171
+Tigray,Mekelle,Semene,Mekelle HC,Health Center,13.485867,39.469850,siteuid781,-5,1352
+Tigray,Mekelle,Debub(South),Mekelle hospital,Hospital,13.502000,39.486500,siteuid782,11,5954
+Tigray,Southern,Raya Azebo,Mohoni HC,Health Center,12.801667,39.641033,siteuid783,9,194
+Tigray,Eastern,Haikmeshal,Mulu HC,Health Center,13.859083,39.736233,siteuid784,0,77
+Tigray,North western,Tselemti,Mytsebri HC,Health Center,13.571283,38.137983,siteuid785,29,2115
+Tigray,Mekelle,Debub,Qiuha hospital,Hospital,13.473617,39.537117,siteuid786,11,300
+Tigray,South east,Saharti Samre,Samere HC,Health Center,13.186833,39.204900,siteuid787,8,8829
+Tigray,North  Western,Medebay Zanna,Selekleka HC,Health Center,14.114417,38.480833,siteuid788,0,818
+Tigray,Centeral,Naeder,Semema HC,Health Center,13.887250,38.649117,siteuid789,45,522
+Tigray,Mekelle,Zonal  Hospital (Kuiha),Semien HC ( mekelles),Health Center,13.510683,39.474900,siteuid790,21,959
+Tigray,Western,Hummera,Setit humera HC,Health Center,14.298833,36.601683,siteuid791,54,398
+Tigray,North western,Sheraro,Sheraro HC,Health Center,14.387817,37.780833,siteuid792,0,0
+Tigray,North  Western,Shire,Shire mch clinic,Clinic,14.101867,38.291517,siteuid793,33,355
+Tigray,Centeral,Axum,St. mariam hospital,Hospital,14.121317,38.728500,siteuid794,-37,226
+Tigray,North  Western,Shirie ( Endaselassie),Suhul hospital,Hospital,14.113317,38.304550,siteuid795,23,170
+Tigray,Western,Tsegedie,Tsegedie HC,Health Center,13.399900,37.399333,siteuid796,38,52
+Tigray,South east,Endamohni,Wode samero HC,Health Center,12.756500,39.335100,siteuid797,0,169
+Tigray,Southern,Wukro,Wukro district  hospital,Hospital,13.789700,39.592283,siteuid798,58,0
+Tigray,Eastern,Wukro,Wukro HC,Health Center,13.776633,39.590383,siteuid799,-14,304
+Tigray,Centeral,Tahtay Machew,Wukro maray HC,Health Center,14.108450,38.607167,siteuid800,39,845
+Tigray,Centeral,Tanguabergele,Yechila HC,Health Center,13.288483,38.990050,siteuid801,13,857
+Tigray,Mekelle,Debub(South),Yeha midam hospital,Hospital,13.491100,39.458950,siteuid802,26,879
+Tigray,Eastern,FATSI (Gulomekeda),Zalambesa HC,Health Center,14.521033,39.386633,siteuid803,0,0
+Addis Ababa,Akaki Kality,4,Gelan hc,Health Center,981378.000000,474268.000000,siteuid804,10,4301
+Addis Ababa,Akaki Kality,1,Akaki hc,Health Center,980383.000000,476687.000000,siteuid805,39,640
+Addis Ababa,Akaki Kality,3,Woreda 3 hc,Health Center,979726.000000,475988.000000,siteuid806,22,660
+Addis Ababa,Akaki Kality,2,Woreda 2hc,Health Center,978311.000000,478615.000000,siteuid807,1,470
+Addis Ababa,Akaki Kality,9,Kilinto hc,Health Center,982842.000000,480325.000000,siteuid808,4,415
+Addis Ababa,Akaki Kality,8,Woreda 8 hc,Health Center,982235.000000,476020.000000,siteuid809,25,55
+Addis Ababa,Akaki Kality,6,Saris hc,Health Center,989806.000000,474022.000000,siteuid810,-40,203
+Addis Ababa,Arada,9,Gulele hc,Health Center,996492.000000,472075.000000,siteuid811,0,0
+Addis Ababa,Arada,2,Woreda 2 hc,Health Center,998786.000000,471286.000000,siteuid812,0,504
+Addis Ababa,Arada,5,Woreda 5 hc,Health Center,999648.000000,472548.000000,siteuid813,11,390
+Addis Ababa,Arada,3,Woreda 3 hc,Health Center,999211.000000,474237.000000,siteuid814,31,245
+Addis Ababa,Gulele,7,Woreda 7 hc,Health Center,1001813.000000,472083.000000,siteuid815,43,20
+Addis Ababa,Gulele,5,Woreda 5 hc,Health Center,1001215.000000,472707.000000,siteuid816,-50,50
+Addis Ababa,Gulele,1,Woreda1 hc,Health Center,1001966.000000,473621.000000,siteuid817,19,448
+Addis Ababa,Gulele,6,Woreda 6 hc,Health Center,1002215.000000,473099.000000,siteuid818,-64,2862
+Addis Ababa,Gulele,8,Woreda 8 hc,Health Center,1001674.000000,470998.000000,siteuid819,96,0
+Addis Ababa,Gulele,10,Woreda 10 hc,Health Center,1001674.000000,469086.000000,siteuid820,2,361
+Addis Ababa,Gulele,3,Woreda 3 hc,Health Center,999777.000000,471394.000000,siteuid821,-64,390
+Addis Ababa,Gulele,2,Woreda 2 hc,Health Center,999793.000000,474065.000000,siteuid822,81,55
+Addis Ababa,Gulele,4,Woreda 4 hc,Health Center,1000095.000000,472475.000000,siteuid823,27,98
+Addis Ababa,Kirkos,6,Woreda 6 hc,Health Center,994330.000000,471700.000000,siteuid824,0,216
+Addis Ababa,Kirkos,5,Woreda 5 hc,Health Center,993799.000000,472537.000000,siteuid825,51,3
+Addis Ababa,Kirkos,3,Woreda 3 hc,Health Center,993291.000000,473759.000000,siteuid826,12,710
+Addis Ababa,Kirkos,2,Woreda 2 hc,Health Center,993985.000000,474737.000000,siteuid827,73,15
+Addis Ababa,Kirkos,4,Woreda 4 hc,Health Center,996467.000000,472069.000000,siteuid828,44,33
+Addis Ababa,Lideta,7,Teklehaymanot hc,Health Center,997285.000000,472307.000000,siteuid829,30,1956
+Addis Ababa,Lideta,8,Selam hc,Health Center,996954.000000,471667.000000,siteuid830,0,0
+Addis Ababa,Lideta,3,Woreda 3 hc,Health Center,997007.000000,470516.000000,siteuid831,1,450
+Addis Ababa,Lideta,1,Woreda 1 hc,Health Center,995525.000000,470451.000000,siteuid832,0,448
+Addis Ababa,Lideta,2,Woreda 2 hc,Health Center,997513.000000,468762.000000,siteuid833,13,70
+Addis Ababa,Nifas Silk Lafto,2,Woreda 2 hc,Health Center,991024.000000,469260.000000,siteuid834,9,432
+Addis Ababa,Nifas Silk Lafto,1,Woreda 1 hc,Health Center,988870.000000,469747.000000,siteuid835,17,1873
+Addis Ababa,Nifas Silk Lafto,7,Woreda 7 hc,Health Center,990167.000000,472529.000000,siteuid836,34,141
+Addis Ababa,Nifas Silk Lafto,6,Woreda 6 hc,Health Center,991507.000000,472426.000000,siteuid837,100,0
+Addis Ababa,Nifas Silk Lafto,5,Woreda 5 hc,Health Center,991629.000000,471538.000000,siteuid838,0,110
+Addis Ababa,Nifas Silk Lafto,4,Woreda 4 hc,Health Center,992357.000000,471000.000000,siteuid839,-4,1
+Addis Ababa,Nifas Silk Lafto,11,Woreda 11 hc,Health Center,986824.000000,471543.000000,siteuid840,-8,264
+Addis Ababa,Nifas Silk Lafto,12,Woreda 12 hc,Health Center,988933.000000,471977.000000,siteuid841,22,109
+Addis Ababa,Yeka,5,Woreda 5 hc,Health Center,997466.000000,477382.000000,siteuid842,43,68
+Addis Ababa,Yeka,8,Woreda 8 hc,Health Center,997175.000000,476898.000000,siteuid843,32,1240
+Addis Ababa,Yeka,4,Woreda 4 hc,Health Center,999334.000000,475215.000000,siteuid844,0,0
+Addis Ababa,Yeka,7,Woreda 7 hc,Health Center,997703.000000,476220.000000,siteuid845,0,0
+Addis Ababa,Yeka,13,Woreda 13 hc,Health Center,998870.000000,486430.000000,siteuid846,71,841
+Addis Ababa,Yeka,12,Woreda 12(1) hc,Health Center,1000958.000000,485972.000000,siteuid847,7,341
+Addis Ababa,Yeka,11,Woreda 11 hc,Health Center,997837.000000,482750.000000,siteuid848,0,0
+Addis Ababa,Yeka,12,Woreda 12(2) hc,Health Center,999127.000000,482819.000000,siteuid849,12,38
+Addis Ababa,Yeka,10,Woreda 10 hc,Health Center,999307.000000,480370.000000,siteuid850,13,2690
+Addis Ababa,Yeka,9,Woreda 9 hc,Health Center,998056.000000,481163.000000,siteuid851,11,255
+Addis Ababa,Yeka,1,Woreda 1 hc,Health Center,1001417.000000,474922.000000,siteuid852,0,0
+Addis Ababa,Yeka,2,Woreda 2 hc,Health Center,1001314.000000,475991.000000,siteuid853,9,2480
+Addis Ababa,Yeka,6,Woreda 6 hc,Health Center,997707.000000,475490.000000,siteuid854,-1,664
+Addis Ababa,Bole,14,Woreda 14,Health Center,995072.000000,479067.000000,siteuid855,0,2900
+Addis Ababa,Bole,13,Woreda 13,Health Center,993541.000000,480381.000000,siteuid856,4,800
+Addis Ababa,Bole,9,Woreda 9,Health Center,994295.000000,481453.000000,siteuid857,28,1805
+Addis Ababa,Bole,10,Woreda 10(1),Health Center,993853.000000,484623.000000,siteuid858,-68,738
+Addis Ababa,Bole,10,Woreda 10(2),Health Center,996158.000000,486967.000000,siteuid859,2,1847
+Addis Ababa,Bole,10,Woreda 10(3),Health Center,993997.000000,488122.000000,siteuid860,9,190
+Addis Ababa,Bole,8,Woreda 8,Health Center,995987.000000,481948.000000,siteuid861,-4,807
+Addis Ababa,Bole,12,Woreda 12,Health Center,989500.000000,475991.000000,siteuid862,-2,501
+Addis Ababa,Addis Ketema,10,Woreda 10,Health Center,1000065.000000,468808.000000,siteuid863,-2,1329
+Addis Ababa,Addis Ketema,5,Woreda 5,Health Center,999812.000000,469292.000000,siteuid864,8,360
+Addis Ababa,Addis Ketema,6,Woreda 6,Health Center,999604.000000,470601.000000,siteuid865,-12,389
+Addis Ababa,Addis Ketema,7,Woreda 7,Health Center,998751.000000,470977.000000,siteuid866,50,96
+Addis Ababa,Addis Ketema,1,Woreda 1,Health Center,998079.000000,471623.000000,siteuid867,1,2711
+Addis Ababa,Addis Ketema,3,Woreda 3,Health Center,997106.000000,469485.000000,siteuid868,0,162
+Addis Ababa,Addis Ketema,2,Woreda 2,Health Center,997486.000000,470007.000000,siteuid869,27,0
+Addis Ababa,Addis Ketema,8,Woreda 8,Health Center,998070.000000,470066.000000,siteuid870,7,165
+Addis Ababa,Kolfe Keraneyo,4,Alem bank hc,Health Center,998055.000000,469938.000000,siteuid871,10,148
+Addis Ababa,Kolfe Keraneyo,3,Woreda 3 hc,Health Center,993317.000000,464472.000000,siteuid872,64,310
+Addis Ababa,Kolfe Keraneyo,1,Woreda 1 hc,Health Center,992468.000000,468097.000000,siteuid873,2,107
+Addis Ababa,Kolfe Keraneyo,5,Woreda 5 hc,Health Center,993981.000000,467459.000000,siteuid874,4,765
+Addis Ababa,Kolfe Keraneyo,13,Woreda 13 hc,Health Center,1000394.000000,466625.000000,siteuid875,0,0
+Addis Ababa,Kolfe Keraneyo,13,Woreda 13 hc,Health Center,999541.000000,466873.000000,siteuid876,0,0
+Addis Ababa,Kolfe Keraneyo,11,Woreda 11 hc,Health Center,999290.000000,467514.000000,siteuid877,-16,3084
+Addis Ababa,Kolfe Keraneyo,6,Woreda 6 hc,Health Center,994980.000000,466770.000000,siteuid878,13,2797
+Addis Ababa,Kolfe Keraneyo,8,Woreda 8 hc,Health Center,996816.000000,466055.000000,siteuid879,48,310
+Addis Ababa,Addis Ketema,,Addis ketema,Health Center,998734.721987,469323.502501,siteuid880,0,0
+Addis Ababa,Addis Ketema,,Kotebe hc,Health Center,997544.764842,480703.707359,siteuid881,18,321
+Addis Ababa,Addis Ketema,,Woreda 7 hc,Health Center,998672.126696,469259.342360,siteuid882,18,176
+Addis Ababa,Akaki Kality,,Kality hc,Health Center,984930.725724,474932.978788,siteuid883,100,0
+Addis Ababa,Arada,,Arada hc,Health Center,998669.625750,472715.902391,siteuid884,29,128
+Addis Ababa,Arada,,Gulele hc,Health Center,1002068.182110,471256.586467,siteuid885,36,109
+Addis Ababa,Arada,,Kebena hc,Health Center,997614.238829,475003.128746,siteuid886,-83,50
+Addis Ababa,Bole,,Bole 17/20 hc,Health Center,993186.601255,475288.004876,siteuid887,3,645
+Addis Ababa,Bole,,Bole 17 hc,Health Center,995102.000470,476577.028575,siteuid888,0,0
+Addis Ababa,Gulele,,Selam hc,Health Center,1000582.443570,469704.077489,siteuid889,-4,947
+Addis Ababa,Gulele,,Sheromeda hc,Health Center,1000661.090870,473092.753743,siteuid890,8,431
+Addis Ababa,Kirkos,,Kazanchis hc,Health Center,995659.545379,474728.958310,siteuid891,0,0
+Addis Ababa,Kirkos,,Kirkos hc,Health Center,996577.297352,471666.650441,siteuid892,-2,388
+Addis Ababa,Kirkos,,Meshualekia hc,Health Center,995691.771148,473329.400720,siteuid893,36,96
+Addis Ababa,kolfe keraniyo,,Kolfe hc,Health Center,999218.671462,467770.544829,siteuid894,43,80
+Addis Ababa,Lideta,,Beletshachew hc,Health Center,995763.370250,471037.732202,siteuid895,2,6936
+Addis Ababa,Lideta,,Kebele 18hc,Health Center,997344.265178,470971.093616,siteuid896,7,4497
+Addis Ababa,Lideta,,Ledeta hc,Health Center,995125.429824,471660.131663,siteuid897,0,0
+Addis Ababa,Lideta,,Tekele hamanot hc,Health Center,997340.141250,471584.755898,siteuid898,0,0
+Addis Ababa,kolfe keraniyo,,Woreda 24 hc,Health Center,993931.464907,469204.420690,siteuid899,0,0
+Addis Ababa,Nefas silk lafto,,Nifas silk lafto no 2 hc,Health Center,993255.202992,469299.169320,siteuid900,0,0
+Addis Ababa,Nifas silk Lafto,,Nifas silk laffto no 1hc,Health Center,990123.725386,473472.291630,siteuid901,0,126
+Addis Ababa,Yeka,,Entoto no 1hc,Health Center,999274.792489,477286.514419,siteuid902,0,0
+Addis Ababa,Yeka,,Yeka hc,Health Center,997181.963499,476900.643737,siteuid903,0,0
