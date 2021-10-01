@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/ICPI/GIS/tree/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/PSNU_HS">[PSNU] Hotspot Tool Link</a></strong>
+  <strong><a href="https://github.com/ICPI/GIS/tree/master/2_Geospatial_Scripts/R_scripts/Hot_Spot_Analysis/PSNU_HS">[PSNU] Hotspot Tool Link (Depreciated)</a></strong>
 </p>
 </h2>
 
