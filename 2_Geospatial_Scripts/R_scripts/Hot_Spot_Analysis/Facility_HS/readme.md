@@ -11,6 +11,8 @@
 <br><br/>
 <br><br/>
 
+This tutorial is for the general script found in the archives folder. For an example using fake supply chain metrics and open sourced geographic data, please download the currently available R script.
+
 # FACILITY SCRIPT BREAKDOWN: 
 
 For this walkthrough, dummy data within Ethiopia was used. Your results will differ. 
