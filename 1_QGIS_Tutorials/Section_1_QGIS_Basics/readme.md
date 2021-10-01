@@ -41,7 +41,7 @@
 **[Chapter 2 - Using and Interacting with QGIS](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_2_Using_QGIS)**
 
 * [Unit 1 - Focused QGIS 3.xx Tutorial Learning Modules](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_2_Using_QGIS/Unit1_QGIS_Crash_Course)
-* [Unit 2 - Creating a Map in QGIS Using PEPFAR Dat](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_2_Using_QGIS/Unit2_Create_a_Simple_Map)
+* [Unit 2 - Creating a Map in QGIS Using PEPFAR Data](https://github.com/ICPI/GIS/tree/master/1_QGIS_Tutorials/Section_1_QGIS_Basics/Chapter_2_Using_QGIS/Unit2_Create_a_Simple_Map)
 
 **Chapter 3 - Creating Maps Using MicroStrategy**
 
