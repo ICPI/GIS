@@ -1,5 +1,5 @@
 <!-- [![DOI](https://zenodo.org/badge/288738217.svg)](https://zenodo.org/badge/latestdoi/288738217) -->
-#### *[Version 0.1]*
+#### *[Version 0.2]*
 
 # PEPFAR ICPI GIS CLUSTER
 
@@ -9,17 +9,9 @@
 
 ## About this Repository:
 
-***Please note that tools and tutorials are added every week and minor organizational shifting may occur.***
+This repository is a living resource that introduces knowledge and practical skills needed to develop geospatial visualizations for HIV epidemic control. The repository sections include code, data, issues, and project management, as well as a wiki that organizes a wide array of resources for the PEPFAR GIS Community of Practice.
 
-This repository is a living resource that introduces knowledge and practical skills needed to develop geospatial visualizations. Users can navigate through this database via the folders above, or the links below. Within the links below, you will find all the tools and tutorials seperated into three main categories.
-
-Please refer to the **Recently Added** section for links to our latest releases.
-
-Within the first category, [QGIS](/1_QGIS_Tutorials), you will find tutorials on both how to get started using the program, as well as a curated collection of common tools. **The tutorials found within this repository are meant to give users only the most basic geographic concepts. The purpose is to faciliate the ability to use of QGIS within PEPFAR in the quickest way. It should by no means be considered an extensive learning resource.**
-
-In the second category, [geospatial tools](/2_Geospatial_Scripts), contains analysis tools written in both Python and R. To help with accesibility and quick use, many scripts will be provided in a pre-made format. Users may contact ICPI to request tools be translated into pyton or R, if they are not readily available.
-
-The final category, [online mapping](/3_Web_Mapping), contains links to live examples of previously created web-based maps. Every map posted will have a code breakdown for users who would like to change the parameters to suit their specific needs.
+This page organizes code, tools, and tutorials centered on technical skills. Below are tutorials on QGIS, a widely used GIS software. **The tutorials found within this repository are meant to give users only the most basic geographic concepts. The purpose is to quickly facilitate the ability to use GIS in support of PEPFAR.**
 
 *Users may contact ICPI for more information on anything contained withing this repository.*
 
@@ -37,13 +29,7 @@ The final category, [online mapping](/3_Web_Mapping), contains links to live exa
 
 - [Section 1 - Python Based Scripts](https://github.com/ICPI/GIS/tree/master/2_Geospatial_Scripts/Python_scripts)
 - [Section 2 - R Based Scripts](https://github.com/ICPI/GIS/tree/master/2_Geospatial_Scripts/R_scripts)
-- Section 3 - Learning SQL
 
-**Category 3 - Online Mapping**
-
-- Section 1 - JavaScript Web Maps
-- Section 2 - Python Web Maps
-- Section 3 - R Web Maps
 
 **Other Category - GIS Cluster Files**
 
@@ -53,7 +39,7 @@ The final category, [online mapping](/3_Web_Mapping), contains links to live exa
 
 ## Technical Skills and Foundational Knowledge
 
-While this repo does contain foundational QGIS skills, code based tools will vary depending on the entry. Each entry will have a skill level clearly labelled at the beginning. Users can expect the following to be used throughout this database:
+While this repo does contain foundational QGIS skills, code-based tools will vary depending on the use case. Each use case will have a skill level clearly labelled at the beginning. Users can expect the following to be used throughout this repo:
 
 - [QGIS 3.xx.x](https://www.qgis.org/en/site/)
 - [Python 3.x](https://www.python.org/download/releases/3.0/)
@@ -72,7 +58,7 @@ While this repo does contain foundational QGIS skills, code based tools will var
 
 Where can I find shapefile datasets?
 
-* Currently shapefile data can only be found on PEPFAR's [ArcGIS Online database](link). Please note that you will need the approriate permissions to access this site. If you would like access, or want to request a OU specific administrative dataset, please contact the GIS cluster.
+* Reference shapefiles can be found on PEPFAR's [ArcGIS Online database](http://www.arcgis.com/home/group.html?id=03fd0317a7b54d6b9a52139ab3b51702#overview). There are two way to access these data. 1) Esri organizational account holders (e.g. through USAID or CDC) can request to join the PEPFAR AGOL Group. 2) PEPFAR GIS users may also request administrative unit boundaries that include DATIM uid in the attribute table directly from the GIS Cluster.
 
 Where can I find health facility coordinates?
 
@@ -80,13 +66,13 @@ Where can I find health facility coordinates?
 
 Where can I find UID information?
 
-* UID information can be found within PEPFAR shapefiles, the MSDs, or through DATIM. More information on the DATIM heirachy can be found [HERE](link).
+* UID information can be found in the attribute tables of PEPFAR shapefiles, the MSDs, or through DATIM. Access to uid codes for complete DATIM organization unit hierarchies may be found in the DATIM Data [Import and Exchange Resources](https://datim.zendesk.com/hc/en-us/articles/115002334246-DATIM-Data-Import-and-Exchange-Resources) page under “Org Unit”.
 
 <!-- ## How to Navigate this Repository.
 
 This repo and its resources can be downloaded directly from Github for individual use. Each Chapter folder contains the chapter content, as well as any data and files referenced.
 
-If you're an instructor using Canvas (or a similar LMS), and want to incorporate  book materials directly into a course site, additional steps are necessary.
+If you're an instructor using Canvas (or a similar LMS), and want to incorporate book materials directly into a course site, additional steps are necessary.
 
 1. Download the workbook.
 2. Convert Markdown files to HTML
