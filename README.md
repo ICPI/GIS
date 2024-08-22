@@ -3,7 +3,7 @@
 
 # PEPFAR ICPI GIS CLUSTER
 
-## _A repository containing **QGIS tutorials**, **geospatial scripts**, **web mapping examples**, organizational materials &amp; resources for the PEPFAR GIS community of practice_
+## _A repository containing **geospatial scripts**, **web mapping examples**, organizational materials &amp; resources for the PEPFAR GIS community of practice_
 
 ---
 
