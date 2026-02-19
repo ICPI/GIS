@@ -1,0 +1,12 @@
+shiny
+acled
+pandas
+folium
+shinywidgets
+plotly
+folium
+shapely
+requests
+rasterio
+numpy
+matplotlib
